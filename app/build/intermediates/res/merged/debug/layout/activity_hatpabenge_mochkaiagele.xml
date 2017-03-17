@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_hatpabenge_mochkaiagele"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.anew.toura.org.example.anew.toura.HatpabengeMochkaiagele">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="১. ভাঙ্গা অঙ্গটি চিহ্নিত করুন।\n
+২. ভাঙ্গা অঙ্গটি অহেতুক নড়াচড়া করবেন না।\n
+৩. শরীরে অন্য কোন স্থানে হাড় ভাঙ্গা আছে কিনা পরীক্ষা করুন। বিশেষ করে লক্ষ করুন কোমড়, মেরুদন্ড, বুক বা পাঁজরের হাড় ভেঙ্গেছে কি না।\n
+৪. হাত বা পায়ের হাড় ভেঙ্গে গেলে বাঁশের চটা বা কাঠের টুকরা বা স্প্রীন্ট দিয়ে ভাঙ্গা জায়গাটি ব্যান্ডেজ বা এক টুকরা কাপড় দিয়ে বেঁধে দিন যাতে ভাঙ্গা অংশ নড়াচড়া করতে না পারে।\n
+৫. যদি হাতের হাড় ভেঙ্গে গিয়ে থাকে, স্প্রীন্ট দেওয়ার পর ব্যান্ডেজ বা কাপড়ের সাহায্যে বা সস্নিং করে ভাঙ্গা হাতকে গলার সাথে ঝুলিয়ে দিন।\n
+৬. যদি কোমর বা মেরুদন্ডের হাড় ভেঙ্গে গিয়ে থাকে তাহলে ঐ ব্যক্তির শরীরের নিচে সাবধানে একটা চার হাত লম্বা এবং দেড় হাত চওড়া কাঠের তক্তা স্থাপন করুন এবং ব্যক্তিটিকে কাঠের তক্তার সাথে সাবধানে ব্যান্ডেজ বা কাপড়ের টুকরা দিয়ে বেঁধে ফালুন (মাথা, বুক, কোমর, হাঁটু ও পায়ের পাতা বরাবর বাঁধন দিতে হবে)। এবার তক্তার দুই দিকে দড়ি ও বাঁশ বা কাঠের টুকরার সাহায্যে স্ট্রেচারের মত তৈরি করুন এবং তাকে দ্রুত নিকটস্থ স্বাস্থ্যকেন্দ্রে নেয়ার ব্যবস্থা করুন।\n\n"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

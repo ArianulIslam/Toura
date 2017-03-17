@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Toura</string>
+    <string name="title_activity_need_car">NeedCarActivity</string>
+    <string name="title_activity_speed_meter">SpeedMeterActivity</string>
+    <string-array name="names">
+
+        <item>BDT to USD</item>
+        <item>BDT to EUR</item>
+        <item>BDT to INR</item>
+        <item>BDT to GBP</item>
+        <item>USD to BDT</item>
+        <item>GBP to BDT</item>
+        <item>INR to BDT</item>
+        <item>EUR to BDT</item>
+
+
+    </string-array>
+
+    <string-array name="Placenames">
+
+        <item>Alis Tunnel(আলি টানেল)</item>
+        <item>Alutila Mountain(আলুটিলা পাহাড়)</item>
+        <item>Boga Lake(বগা লেক)</item>
+        <item>Bandarban(বান্দরবন)</item>
+
+        <item>Bichna Kandi(বিছনাকান্দি)</item>
+        <item>Behula(বেহুলা দেন)</item>
+        <item>Botanical Garden (বোটানিক্যাল গার্ডেন)</item>
+        <item>Bolaganj(ভোলাগঞ্জ)</item>
+        <item>Comilla(কুমিল্লা)</item>
+        <item>Coxsbazar(কক্সবাজার )</item>
+        <item>Chandranath Hill(চন্দ্রনাথ হিল)</item>
+        <item>Cholon bil(চলন বিল)</item>
+        <item>Divir Haor(ডিবির হাওর)</item>
+        <item>Dublar Char(দুবলার চর)</item>
+        <item>Foys Lake(ফয়েজ লেক)</item>
+        <item>Jaflong(জাফলং)</item>
+        <item>Hazrat Shah Jalal Mazar(মাজার)</item>
+        <item>Hazrat Shah poran Mazar(মাজার)</item>
+        <item>Ham Ham(হাম হাম ঝর্ণা)</item>
+        <item>KuwaKata(কুয়াকাটা)</item>
+
+        <item>keokradong(কেওক্রাডং) </item>
+        <item>Karomjol(করামজল ) </item>
+
+        <item>Lalbagh Kella(লালবাগ কেল্লা)</item>
+
+        <item>Lokkhon chora(লক্ষীছড়া)</item>
+
+        <item>Nijhum Dwip(নিঝুম দ্বীপ)</item>
+
+        <item>Nilgiri(নীলগিরি)</item>
+
+        <item>NafaKum (নাফকুম জলপ্রপাত )</item>
+        <item>Monpura(মনপুরা)</item>
+        <item>Mahasthangarh(মহাস্থানগড়)</item>
+        <item>Madhabkunda(মাধবকুন্ড)</item>
+
+        <item>Milonchori(মিলন ছড়ি)</item>
+        <item>Patenga(পতেঙ্গা)</item>
+        <item>Panthumai(পান্থুমাই)</item>
+        <item>Rangamati(রাঙ্গামাটি)</item>
+        <item>Ratargul(রাতারগুল জলাবন) </item>
+        <item>Rayer Bazar(রায়েরবাজার)</item>
+        <item>Sylhet(সিলেট)</item>
+        <item>Sarno Mandir(সর্ন মন্দির)</item>
+        <item>Sajek Vallay(সাজেক ভ্যালী)</item>
+        <item>Sitakunda(সীতাকুন্ড)</item>
+        <item>Sonargoan(সোনারগাঁও)</item>
+        <item>Shat Gambuj Mosque(ষাট গম্বুজ মসজিদ)</item>
+        <item>SongramPunji(সংগ্রামপুঞ্জি ঝর্ণা)</item>
+
+        <item>Sunamgonj(সুনামগঞ্জ)</item>
+        <item>Sants Martin(সেন্টমার্টিন)</item>
+        <item>Sundorbon(সুন্দরবন)</item>
+        <item>Utmachora(ঊট্মাছড়া)</item>
+        <item>Ahsan Manzil(আহ্সান মঞ্জিল)</item>
+        <item>JaduPai Jhorna(জাদিপাই)</item>
+        <item>Nilachal(নীলাচল)</item>
+
+
+    </string-array>
+
+    <string-array name="PramaryTreatment">
+        <item>ভ্রমনে সর্বাধিক প্রয়োজনীয় প্রাথমিক চিকিৎসার উপাদান</item>
+        <item>পানিতে ডুবে গেল?</item>
+        <item>সাপে কামড় দিলে?</item>
+        <item>জোঁক, পিঁপড়া, বিচ্ছা ও পোকার কামড় দিলে করনীয়?
+</item>
+        <item>কুকুর বা অন্য জন্তু কামড় দিলে?</item>
+        <item>পেট ব্যথা করলে?</item>
+        <item>হাত পা ভাংলে বা মচকালে?</item>
+        <item>মাথা ব্যাথা করলে?</item>
+        <item>চোরাবালিতে পরে গেলে?</item>
+        <item>আগুন এ কোন অংশ পুড়ে গেলে?</item>
+        <item>হাত পা কোথাও কেটে গেলে?</item>
+        <item>ইলেক্টিক সর্ট খেলে?</item>
+        <item>হার্ট এর্টকা করলে?</item>
+        <item>হাপানি  শ্বাস প্রশ্বাস প্রব্লেম হলে?</item>
+    </string-array>
+    <string name="title_activity_vola_gonj10">VolaGonj10</string>
+    <string name="title_activity_mymap">Toura Map</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

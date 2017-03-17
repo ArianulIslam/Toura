@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_hatpaketegele"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+
+    tools:context="com.example.anew.toura.org.example.anew.toura.hatpaketegele">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="শরীরে অংশ কেটে গেলে\n\n
+পুরাতন ভাঙ্গা লোহা, টিন, কাঁচ থেকেও হাত-পা কেটে যেতে পারে। অনেক সময় কেটে রক্ত পড়তে পারে। তাই প্রথমে যে কাজটি করতে হবে তা হচ্ছে যদি কাটা স্থান দিয়ে রক্ত পড়ে তবে প্রথমে কোন পরিষ্কার কাপড়, গজ-ব্যান্ডেজ পাওয়া গেলে গজ-ব্যান্ডেজ দিয়ে কাটা স্থান খানিক্ষণ চেপে ধরুন। রক্ত বন্ধ হলে কাটা বা ক্ষতস্থানটি কোন এন্টিসেপটিক লোশন দিয়ে পরিষ্কার করে হালকাভাবে ব্যান্ডেজ করে নিন। আর যদি ভাঙ্গা কাঁচ, টিন, লোহা থেকে কেটে যায় বা থেতলিয়ে যায় তবে প্রথমে এন্টিসেপটিক লোশন দিয়ে ভালো করে পরিষ্কার করে নিন। কাটা জায়গায় কোন এন্টিসেপটিক ক্রিম লাগাতে পারেন। যদি আঘাত বা কাটার পরিমাণ বড় হয় তবে অবশ্যই কোন নিকটস্থ চিকিত্সা কেন্দ্রে বা হাসপাতালে নিন। এছাড়া অনেক ক্ষেত্রে কাটাজনিত কারণে টিটেনাস বা ধনুষ্টংকার হতে পারে। এক্ষেত্রে চিকিত্সকের পরামর্শে টিটেনাস অথবা এন্টি গামা গ্লোবুলিন ইনজেকশন দিতে হবে।\n\n"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

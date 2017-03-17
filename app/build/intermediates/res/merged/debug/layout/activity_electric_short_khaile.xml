@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_electric_short_khaile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.anew.toura.org.example.anew.toura.ElectricShortKhaile">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="এ ধরনের ঘটনা ঘটলে করণীয়:\n
+এমন বৈদ্যুতিক শকের ঘটনা যদি হঠাৎ ঘটে যায় তাহলে এ সময় ঘাবড়ে না গিয়ে মাথা ঠাণ্ডা রাখতে হবে। এ সময় উপস্থিত বুদ্ধি দিয়ে সেই দুর্ঘটনাকবলিত ব্যক্তিকে আপনি রক্ষা করতে পারেন।\n\n
+# বিদ্যুতায়িত ব্যক্তিকে রক্ষা করার জন্য প্রথমেই আপনাকে মেইন সুইচটি অফ করতে হবে।\n
+# মেইন সুইচ পাওয়া না গেলে শুকনো লাঠি বা বাঁশ জাতীয় কোনো কিছু দিয়ে ধাক্কা দিয়ে ওই ব্যক্তিকে তার থেকে বিচ্ছিন্ন করুন।\n
+# আপনার আশেপাশে কোনা রাবারের গ্লাস বা জুতা থাকলে তা পরে ধাক্কা দিয়ে দুর্ঘটনাকরলিব্য ব্যক্তিকে তার তেকে বিচ্ছিন্ন করুন।\n
+# কোনো অবস্থাতেই কখনও খালি হাতে বিদুৎতায়িত ব্যক্তিকে স্পর্শ করবেন না। যদি করেন তাহলে আপনার দেহ ও বিদ্যুতায়িত হয়ে যাবে। অর্থাৎ আপনিও আক্রান্ত হবেন।\n
+বিদ্যুতায়িত ব্যক্তিকে লাঠিদ্বারা ফেলে দেওয়ার পর নিচের ফাষ্ট এইড বা প্রাথমিক চিকিৎসাগুলো দিতে হবে\n
+# বিদ্যুতায়িত ব্যক্তির শ্বাস-প্রশ্বাস স্বাভাবিক না হওয়া পর্যন্ত কৃত্রিম শ্বাস প্রশ্বাস প্রত্রিয়া চালু রাখুন।\n
+# গলা, বুক এবং কোমরের কাপড় আলগা করে দেওয়া উচিত।\n
+# যেখানে পুড়ে গেছে, তাতে জরুরি চিকিৎসা দিতে হবে।\n
+# স্বাভাবিক আঘাতের চিকিৎসা চালাতে হবে।\n
+# যতো দ্রুত সম্ভব চিকিৎসকের কাছে অথবা হাসপাতালে নিতে হবে।\n
+রোগির বিদ্যুতায়িত হওয়ার পরিমাণের ওপর নির্ভর করে সিদ্ধান্ত নিতে হবে। অবস্থা বেশি খারাপ হলে প্রাথমিক চিকিৎসা দেওয়ার সঙ্গে সঙ্গেই হাসপাতালে নিতে হবে। এভাবে বৈদ্যুতিক শক খাওয়া ব্যক্তিকে সুস্থ্ করে তোলা সম্ভব।\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

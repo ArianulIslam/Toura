@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/anim/design_fab_in.xml"
+    }
+]

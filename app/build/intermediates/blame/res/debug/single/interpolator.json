@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

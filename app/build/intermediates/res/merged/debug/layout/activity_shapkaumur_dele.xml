@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_shapkaumur_dele"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.anew.toura.org.example.anew.toura.ShapkaumurDele">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="সাপ কামড়ালে, প্রথমত বুদ্ধীমানের কাজ হয় সাপটি বিষাক্ত ছিল কি না , তা জানার চেষ্টা করা.\n
+সাপটি বিষাক্ত হলে কামড়ের লক্ষণঃ-\n
+কামড়ের প্রায় ১০ — ২০ মিনিটের মধ্যে লক্ষণ দেখা দিবে ।\n\n
+১.কামড়ের যন্ত্রণা-খুব বেশি হতে পারে\n
+২. বিষ বাহির এবং ট্রিটমেন্টের পরেও বেথা অনেক দিন থাকতে পারে ।\n
+৩.কামড়ের স্থান ফুলে যাওয়া ,রক্তে কি পরিমান বিষ ঢুকেছে তার দ্বারা নির্ভর করে ।\n
+ ৪. কামড় থেকে রক্তঝড়া ।\n
+৫. চামড়ার রং বদলে যাবে কামড়ের স্থানের চারপাশে ।\n
+৬.পচা ঘা হবে ৷ \n\n
+সাপটি কম বিষাক্ত হলে কামড়ের লক্ষণঃ-\n
+১০ মিনিট থেকে লক্ষণ দেখা দেয় । গোখরা সাপ এবং মেটে সাপ স্নায়ুতন্ত্রকে আক্রমণ করে,\n
+১.রোগীর কামড়ের পর ঘুম ভাব হবে ।\n
+২. দুই চোখের চারপাশে পেশীর দুর্বলতা ও কম দৃষ্টি শক্তী ।\n
+৩.শ্বাস বেবন্ধ হয়ে মারা যেতে পারে\n
+৪. মাথা ঘোরা ,মাথা ধরা\n
+৫. কাশির সঙ্গে রক্ত কফ\n
+৬.বমি হওয়া,কিংবা বমীর ভাব ।\n\n
+চিকিৎসাঃ-\n
+১.যে জায়গায় সাপের কামড় খেয়েছে সেখানে আছড়াবেন না ।\n
+২.কামড়ের স্থান থেকে একটু উপরে কাপড় দিয়ে বাধবেন ।\n
+৩. স্ট্রেচারে করে নিয়ে যাবেন ,দি কামড়টি পাঁয়ের দিকে হয়৷\n
+৪.কামড় বিপদ জনক হলে রোগীকে যত দ্রুত সম্ভব হাঁসপাতালে নিন ।\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

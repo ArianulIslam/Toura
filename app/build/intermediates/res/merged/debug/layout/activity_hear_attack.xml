@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_hear_attack"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.anew.toura.org.example.anew.toura.HearAttackActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="হার্ট অ্যাটাক হলে যা করবেনঃ-\n
+হার্ট যখন অপর্যাপ্ত এবং অনিয়মিতভাবে রক্ত সঞ্চালন করে তখনই হার্ট অ্যাটাক হয়। আর হার্ট অ্যাটাকের ১০ সেকেণ্ডের মধ্যেই রোগী অজ্ঞান হতে পারেন। তবে আপনি অজ্ঞান হবেন কি না সেটা আগেই বলে দেয়া যায় না।
+যদি শরীরে হার্ট অ্যাটাকের লক্ষণগুলো অনুভব করেন কিংবা মনে হয়, হার্ট অ্যাটাক হচ্ছে- সেক্ষেত্রে প্রথমেই ঘাবড়ে যাবেন না। তাহলে পরিস্থিতি আরো খারাপ হবে। জ্ঞান হারাবার আগে যে ১০ সেকেণ্ড সময় পান, এই সময়টুকুর মাঝেই নিজেকে বাঁচানোর চেষ্টা করুন।
+হার্টবিট অনিয়মিত অনুভূত হলে সাথে সাথে খুব দ্রুত, জোরে এবং ঘন ঘন কাশি দিতে থাকুন। এমনভাবে কাশতে থাকুন যেন কাশির সঙ্গে কফও বের হয়ে আসে। প্রতিবার কাশি দেয়ার আগে লম্বা করে বুক ভরে শ্বাস নিন। এভাবে ঘন ঘন কাশি এবং লম্বা নিঃশ্বাস প্রতি ২ মিনিট পর পর করতে থাকুন। এতে করে আপনার হার্ট কিছুটা হলেও নিয়মিতভাবে রক্ত সঞ্চালন করতে শুরু করবে। অর্থাৎ আপনি ঘটনাস্থলেই প্রাণ হারাবেন না; অন্তত কেউ আসার আগ পর্যন্ত নিজেকে টিকিয়ে রাখতে পারবেন।\n\n
+কাশির ফাঁকেই নিজের অবস্থান পরিবর্তন করুন। দাঁড়িয়ে থাকলে বসে পড়ুন, বসা থাকলে শুয়ে পড়ুন।\n\n
+হাসপাতালে নেয়ার আগে একজন রোগীকে বাঁচাতে অনেক সাহায্য করবে এই টিপসগুলো। কারণ লম্বা নিঃশ্বাস নেয়ার ফলে শরীরে অক্সিজেন পরিবহন বেশি হবে। আর ঘন ঘন এবং জোরে কাশি দেয়ার ফলে বুকে যে চাপের সৃষ্টি হয়, তাতে হার্ট পর্যাপ্ত ও নিয়মিতভাবে রক্ত সঞ্চালনের জন্য প্রস্তুত হয়।\n\n
+মনে রাখবেন, লম্বা নিঃশ্বাস আর জোরে জোরে কাশি- হার্ট অ্যাটাকের সময় এই দুটো জিনিসই আপনাকে রক্ষা করার সুযোগ দিবে।\n\n
+আর যদি আপনার জ্ঞান থাকে, তাহলে ট্যাবলেট এসপিরিন (৩০০ মিলিগ্রাম) দেয়া উচিত, যাতে রক্ত জমাট বাঁধার প্রক্রিয়া প্রতিরোধ করা যায়। আবার নাইট্রোগি্লসারিন স্প্রে জিহ্বার নিচে দেয়া যায়।\n\n
+তবে মনে রাখতে হবে এই সবই সাময়িক ভাবে টিকে থাকার উপায়। হার্ট অ্যাটাকের ক্ষেত্রে মনে রাখতে হবে প্রতিটি মুহূর্ত অবশ্যই গুরুত্বপূর্ণ। যত দ্রুত যথাযথ পদক্ষেপ নেয়া যাবে ততই বেড়ে যাবে রোগীর জীবন বেঁচে যাওয়ার সম্ভাবনা। আর তাই দেরী না করে যত দ্রুত সম্ভব নিকটতম হাসপাতালে যাবার ব্যবস্থা করতে হবে।\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView11"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
