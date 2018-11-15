@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-normal-v4/activity_calculator.xml",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/layout-normal/activity_calculator.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-normal-v4/alltransport_activity.xml",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/layout-normal/alltransport_activity.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-normal-v4/activity_main.xml",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/layout-normal/activity_main.xml"
+    }
+]

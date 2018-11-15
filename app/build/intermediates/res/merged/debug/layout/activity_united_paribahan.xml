@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.unitedParibahan">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="United Paribahan has the following regular routes from Dhaka: (Only Non-AC bus service is available)\n
+*Sylhet\n
+*Bogra\n
+*Ponchogor\n
+*Thakurgaon\n
+*Rangpur\n
+*Gaibandha\n\n
+Head Office of United Paribahan:\n
+United Paribahan Counter, Saydabad Bus Terminal, Dhaka\n
+Mobile: 01724-024233\n\n
+Other Counters of United Paribahan:\n
+Counter\n
+
+Fotullah Counter, Fotullah bus stand, Dhaka\n
+01716-515799\n
+Saydabad Counter, Janapath More, Dhaka\n
+01724-024233\n
+Kurigram Counter, Ghosh para D.K. Hotel, Kurigram\n
+01714-523842\n
+Rangpur Counter, Kamarpara Bus Terminal, Rangpur\n
+01710-604784\n
+Ulipur Counter\n
+01916-715373\n
+Gaibandha Counter\n
+01724-565347\n
+Joldhaka Counter\n
+0714606090\n
+Narayanganj Counter\n
+01674-046535\n
+Burirhat Counter\n
+01729-729449\n
+Chilmari Counter\n
+01719-545912\n
+
+Sylhet Counter\n
+01558-378370\n
+Gongachora Counter\n
+01714-678927\n
+Gobindogonj Counter\n
+01732-305155\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

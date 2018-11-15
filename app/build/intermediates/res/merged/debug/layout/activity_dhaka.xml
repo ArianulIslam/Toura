@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.Dhaka">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Dhaka Express has the following regular routes from Dhaka: (Only Non-AC sleeping chair coach service is available)\n
+*Raypur\n
+*Lakshmipur\n
+*Chondrogonj\n
+*Bot Toli\n
+*Mandari\n
+*Maijdi\n
+*Sonaimuri\n
+*Laksham\n
+Main Counter of Dhaka Express:\n
+Saydabad Janapath Highway, Dhaka.\n
+Tel: 02-7545838\n\n
+Other Counters of Dhaka Express in Dhaka:\n
+Fokirapool: 02-7101725, 01712-905510\n
+Tongi: 02-9803530, 01716-577372\n
+Kochukhet: 01740-616433\n
+Mirpur-1: 02-8058315, 01911-471347\n
+Shyamoli: 02-9138380, 01817-514263\n
+Mirpur-10: 02-9014853, 01712-082607\n
+Mohakhali: 02-9882465, 01711-242461\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

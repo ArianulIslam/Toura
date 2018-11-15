@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.ModernEnterPrise">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Modern Enterprise has the following regular routes from Dhaka: (Only Non-AC bus service is available)\n
+*Natore\n
+*Rajshahi\n
+*Chapainawabgonj\n\n
+Main Counter of Modern Enterprise:\n
+Abdullahpur Bus Stand, Abdullahpur Board Bazar Signboard, Dhaka\n.
+Mob: 01746-037071, 01726-717226\n
+Except this counter, Modern Enterprise has more counters at Kollyanpur bus stand and Gabtoli bus terminal.\n\n
+
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

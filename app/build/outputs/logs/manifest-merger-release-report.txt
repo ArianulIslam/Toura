@@ -1,0 +1,1341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:2:1-491:12
+	package
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/336282fc73a07ff7beb79834780795b66ad102f5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/ib-internetbasic/.android/build-cache/382b3f1cf21be33330effde5f202ea1c2d7dd7b2/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/ib-internetbasic/.android/build-cache/05ef8c91c37c9607c50af06e4c62587aaac79a83/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1a718f3fc1dbcd1b7b702ee073a8c70a3c69e942/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/86433d004139bbf495d461c111cc180bea811135/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/be5b2a55e39c7a5055ecc7d534e1a296bd694873/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/ib-internetbasic/.android/build-cache/a86309e4100924fd128fd7a4ca691b9641b3eb5b/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/336282fc73a07ff7beb79834780795b66ad102f5/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/ib-internetbasic/.android/build-cache/b40808d86a7a932cfbe171c0cfe07a45fd99e88d/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/86433d004139bbf495d461c111cc180bea811135/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/be5b2a55e39c7a5055ecc7d534e1a296bd694873/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/ib-internetbasic/.android/build-cache/a86309e4100924fd128fd7a4ca691b9641b3eb5b/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:10:22-73
+application
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:12:5-489:19
+MERGED from [com.google.android.gms:play-services:10.2.0] /Users/ib-internetbasic/.android/build-cache/3fc49fc0e27f0d1991e0ef35fce00216e84aaee5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/336282fc73a07ff7beb79834780795b66ad102f5/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/ib-internetbasic/.android/build-cache/b89e939e13e48561956bb6cd5d1ef12b3a207c65/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/ib-internetbasic/.android/build-cache/b7ef9c6e51b6f378009110fb6adeb33748520299/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/ib-internetbasic/.android/build-cache/7fe22523ce34ec0b91249f6f7a408985410ff05b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/ib-internetbasic/.android/build-cache/55e0aa37351b0d5a74fd52001e0d31c5624f7476/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/ib-internetbasic/.android/build-cache/382b3f1cf21be33330effde5f202ea1c2d7dd7b2/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ffc6965f92002d76260eb4830af3fb41ab9937c7/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/ib-internetbasic/.android/build-cache/45437101142a514c425b622d5361807db5275b71/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/ib-internetbasic/.android/build-cache/ae504fe3ca45aca75dfba6a835aade0685d9a8f8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/ib-internetbasic/.android/build-cache/881de895beeb78950f524fac0419d1a1f8c30740/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/ib-internetbasic/.android/build-cache/05ef8c91c37c9607c50af06e4c62587aaac79a83/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/ib-internetbasic/.android/build-cache/53f254d45564d6c7a1e8937e449f0c6d9033a090/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1a718f3fc1dbcd1b7b702ee073a8c70a3c69e942/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/ib-internetbasic/.android/build-cache/821b871bc9a1886cf5a746d894b1ecb5d1cbf91c/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/ib-internetbasic/.android/build-cache/b40808d86a7a932cfbe171c0cfe07a45fd99e88d/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/ib-internetbasic/.android/build-cache/7f1c8f3026638f4bd90de5b8879414b47b4269be/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/ib-internetbasic/.android/build-cache/813f9e69ef7f7726188cb9f443e8cf13b4909b20/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/ib-internetbasic/.android/build-cache/ba5b70eabd5b7fa8f0d568468a75da1b2ea33d79/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/ib-internetbasic/.android/build-cache/ba5228f35b500f766eee431e1ffc4a5f2d610f12/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/86433d004139bbf495d461c111cc180bea811135/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/4dda698847cae9a4bbbcc932e0b68c7d356a3bd2/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/4082dc93b5bc0656011e8ceed7b2612aae9dad57/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/be5b2a55e39c7a5055ecc7d534e1a296bd694873/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/ib-internetbasic/.android/build-cache/2c7851b184bb7552626b3ee06eb3f52b8e5ff6a2/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/ib-internetbasic/.android/build-cache/0e9b4d70388ec40e3aae3b010f9cfc5a135e7f6e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/ib-internetbasic/.android/build-cache/57eaeb3fdb5165b002cabc6e6553e632ae8ad997/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/ib-internetbasic/.android/build-cache/0088b9224a9be1a1f0ae7d0d69fcb1b75eb4efaf/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/ib-internetbasic/.android/build-cache/560c7918832bf626f7f74029866d639c218dae94/output/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:customtabs:25.2.0] /Users/ib-internetbasic/.android/build-cache/6bc107f41e4ab37f29740120eee4d423e4af0aae/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/ib-internetbasic/.android/build-cache/a86309e4100924fd128fd7a4ca691b9641b3eb5b/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/ib-internetbasic/.android/build-cache/9a99a4679e7887fdbe8753e81531377ec263d064/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/ib-internetbasic/.android/build-cache/1a59a5c12d340fd014495d89a69fc13a9b41dc88/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.1.0] /Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/ib-internetbasic/.android/build-cache/acdfe552911b496aa70e9d9ca7f6909bf5b9d71d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/ib-internetbasic/.android/build-cache/e6a2385b9ebb090d1bb412e3dc258e766b6da18c/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] /Users/ib-internetbasic/.android/build-cache/b645d0e9b335a95e5da019d3e6aa25e33487bd92/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/ib-internetbasic/.android/build-cache/fa659b8990fd36dfef8b5b97cec2359604fc38b3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/ib-internetbasic/.android/build-cache/93380a14fdd83264bc3552060d488564fd14feff/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/ib-internetbasic/.android/build-cache/33f845f33c91ec9be191f52cb404fb14840beca8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/ib-internetbasic/.android/build-cache/73adeb17a60174989400905759a86fd1dc57fa5a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/ib-internetbasic/.android/build-cache/fce18c524e3638989f7b96d35b22931bbde10e26/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/ib-internetbasic/.android/build-cache/0eec1650c104a7553a13979abe8276cc9d178b62/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] /Users/ib-internetbasic/.android/build-cache/5144ca4f3b873a5fa0526b314472f830d0b4e496/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/ib-internetbasic/.android/build-cache/d13d0b3641f50f74758c2de8458a9a7b2c989362/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:13:9-68
+meta-data#com.google.android.gms.version
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:19:9-21:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/ib-internetbasic/.android/build-cache/1a59a5c12d340fd014495d89a69fc13a9b41dc88/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:20:13-58
+activity#org.debuggers.anew.toura.MainActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:24:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:29:27-74
+activity#org.debuggers.anew.toura.NeedCarActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:33:13-68
+activity#org.debuggers.anew.toura.CompassActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:35:9-38:47
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:37:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:36:13-68
+activity#org.debuggers.anew.toura.ShopNowActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:40:13-68
+activity#org.debuggers.anew.toura.SpeedMeterActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:43:13-71
+activity#org.debuggers.anew.toura.CurrencyConverterActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:46:13-78
+activity#org.debuggers.anew.toura.CalculatorActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:49:13-71
+activity#org.debuggers.anew.toura.EmergencyActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:51:9-79
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:51:19-76
+activity#org.debuggers.anew.toura.PlaceDetailsActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:52:9-55:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:54:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:53:13-73
+activity#org.debuggers.anew.toura.PrimaryTreamentAcitvity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:56:9-59:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:58:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:57:13-76
+activity#org.debuggers.anew.toura.tourElementTreatment
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:60:9-63:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:62:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:61:13-73
+activity#org.debuggers.anew.toura.PaniteDubeGele
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:64:9-67:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:66:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:67:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:65:13-67
+activity#org.debuggers.anew.toura.HearAttackActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:68:9-71:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:71:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:69:13-71
+activity#org.debuggers.anew.toura.KuttaKamurDele
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:72:9-75:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:74:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:73:13-67
+activity#org.debuggers.anew.toura.AgunLagle
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:76:9-79:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:78:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:79:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:77:13-62
+activity#org.debuggers.anew.toura.ShapkaumurDele
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:80:9-83:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:82:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:83:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:81:13-67
+activity#org.debuggers.anew.toura.ElectricShortKhaile
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:84:9-87:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:86:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:87:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:85:13-72
+activity#org.debuggers.anew.toura.JokeKamurdele
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:88:9-91:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:90:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:89:13-66
+activity#org.debuggers.anew.toura.hatpaketegele
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:92:9-95:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:94:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:95:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:93:13-66
+activity#org.debuggers.anew.toura.PetBethaKorle
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:96:9-99:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:98:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:97:13-66
+activity#org.debuggers.anew.toura.ChorabalitePorle
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:100:9-103:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:102:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:103:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:101:13-69
+activity#org.debuggers.anew.toura.ShaproshadProblem
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:104:9-107:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:106:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:107:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:105:13-70
+activity#org.debuggers.anew.toura.MathaBetha
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:108:9-111:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:110:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:111:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:109:13-63
+activity#org.debuggers.anew.toura.HatpabengeMochkaiagele
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:112:9-115:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:114:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:113:13-75
+activity#org.debuggers.anew.toura.TourSongLyrics
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:116:9-119:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:118:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:119:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:117:13-67
+activity#org.debuggers.anew.toura.AhshanManjilPlace0
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:120:9-123:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:122:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:121:13-71
+activity#org.debuggers.anew.toura.BotanikalGardenPlace9
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:124:9-127:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:126:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:127:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:125:13-74
+activity#org.debuggers.anew.toura.LalbagkEllaPlace27
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:128:9-131:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:130:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:131:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:129:13-71
+activity#org.debuggers.anew.toura.MohaistanGorplace37
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:132:9-135:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:134:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:135:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:133:13-72
+activity#org.debuggers.anew.toura.HazratShahajalaMazar19
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:136:9-139:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:138:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:139:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:137:13-75
+activity#org.debuggers.anew.toura.SonarGaoPlace50
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:140:9-143:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:142:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:143:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:141:13-68
+activity#org.debuggers.anew.toura.RayerBazarPlace45
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:144:9-147:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:146:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:147:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:145:13-70
+activity#org.debuggers.anew.toura.DublarChorPlace16
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:148:9-151:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:150:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:151:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:149:13-70
+activity#org.debuggers.anew.toura.HazaratShahPoranMazar20
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:152:9-155:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:154:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:155:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:153:13-76
+activity#org.debuggers.anew.toura.KoromJolplace25
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:156:9-77
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:156:19-74
+activity#org.debuggers.anew.toura.SundorBanPlace
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:157:9-160:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:159:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:160:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:158:13-67
+activity#org.debuggers.anew.toura.MonpuraPlace36
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:161:9-164:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:163:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:164:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:162:13-67
+activity#org.debuggers.anew.toura.ShitakundoPlace49
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:165:9-168:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:167:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:168:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:166:13-70
+activity#org.debuggers.anew.toura.FoyezLacke17
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:169:9-172:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:171:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:172:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:170:13-65
+activity#org.debuggers.anew.toura.AlurtilaPlace2
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:173:9-176:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:175:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:176:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:174:13-67
+activity#org.debuggers.anew.toura.ALiSurong1
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:177:9-180:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:179:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:180:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:178:13-63
+activity#org.debuggers.anew.toura.BandorBonPlace4
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:181:9-184:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:183:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:184:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:182:13-68
+activity#org.debuggers.anew.toura.BogaLakePlace3
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:185:9-188:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:187:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:188:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:186:13-67
+activity#org.debuggers.anew.toura.ComillaPlace11
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:189:9-192:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:191:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:192:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:190:13-67
+activity#org.debuggers.anew.toura.CoxsBazarPlace12
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:193:9-196:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:195:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:196:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:194:13-69
+activity#org.debuggers.anew.toura.KeokradhongPlace24
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:197:9-200:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:199:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:200:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:198:13-71
+activity#org.debuggers.anew.toura.NijhumDwipPlace31
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:201:9-204:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:203:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:204:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:202:13-70
+activity#org.debuggers.anew.toura.Nilacholplace34
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:205:9-208:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:207:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:208:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:206:13-68
+activity#org.debuggers.anew.toura.NilgiriPlace33
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:209:9-212:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:211:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:212:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:210:13-67
+activity#org.debuggers.anew.toura.PotengaPlace
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:213:9-216:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:215:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:216:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:214:13-65
+activity#org.debuggers.anew.toura.RangaMatiPlace
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:217:9-220:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:219:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:220:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:218:13-67
+activity#org.debuggers.anew.toura.ChandronathPaharpLace13
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:221:9-224:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:223:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:224:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:222:13-76
+activity#org.debuggers.anew.toura.goldentTemple47
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:225:9-228:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:227:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:228:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:226:13-68
+activity#org.debuggers.anew.toura.SajekVallay48
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:229:9-232:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:231:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:232:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:230:13-66
+activity#org.debuggers.anew.toura.Milonchori39
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:233:9-236:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:235:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:236:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:234:13-65
+activity#org.debuggers.anew.toura.shatGombujMosjid51
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:237:9-240:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:239:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:240:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:238:13-71
+activity#org.debuggers.anew.toura.BahularBasor8
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:241:9-244:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:243:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:244:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:242:13-66
+activity#org.debuggers.anew.toura.cholonbill14
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:245:9-248:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:247:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:248:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:246:13-65
+activity#org.debuggers.anew.toura.VolaGonj10
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:249:9-252:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:251:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:252:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:250:13-63
+activity#org.debuggers.anew.toura.Bichanakandi
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:253:9-256:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:255:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:256:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:254:13-65
+activity#org.debuggers.anew.toura.Jaflong
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:257:9-260:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:259:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:260:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:258:13-60
+activity#org.debuggers.anew.toura.SongramPunjZorna
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:261:9-264:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:263:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:264:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:262:13-69
+activity#org.debuggers.anew.toura.DibirHowar
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:265:9-268:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:267:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:268:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:266:13-63
+activity#org.debuggers.anew.toura.SunamGonj
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:269:9-272:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:271:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:272:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:270:13-62
+activity#org.debuggers.anew.toura.MadobkundoJorna
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:273:9-276:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:275:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:276:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:274:13-68
+activity#org.debuggers.anew.toura.LokkhonChora
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:277:9-280:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:279:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:280:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:278:13-65
+activity#org.debuggers.anew.toura.Uttomchora
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:281:9-284:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:283:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:284:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:282:13-63
+activity#org.debuggers.anew.toura.Pantumai
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:285:9-288:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:287:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:288:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:286:13-61
+activity#org.debuggers.anew.toura.JaudpaiJorna
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:289:9-292:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:291:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:292:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:290:13-65
+activity#org.debuggers.anew.toura.Amiakhum
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:293:9-296:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:295:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:296:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:294:13-61
+activity#org.debuggers.anew.toura.Kuwakata
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:297:9-300:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:299:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:300:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:298:13-61
+activity#org.debuggers.anew.toura.SaintMartin
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:301:9-304:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:303:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:304:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:302:13-64
+activity#org.debuggers.anew.toura.Sylhet
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:305:9-308:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:307:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:308:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:306:13-59
+activity#org.debuggers.anew.toura.HamHam
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:309:9-312:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:311:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:312:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:310:13-59
+activity#org.debuggers.anew.toura.RaterGul
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:313:9-316:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:315:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:316:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:314:13-61
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:325:9-327:55
+	android:value
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:327:13-52
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:326:13-58
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:329:9-332:64
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:331:13-122
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:332:13-61
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:330:13-65
+activity#org.debuggers.anew.toura.BusInfoActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:333:9-336:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:335:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:336:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:334:13-68
+activity#org.debuggers.anew.toura.GreenLineBus
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:337:9-340:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:339:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:340:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:338:13-65
+activity#org.debuggers.anew.toura.SAlamService
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:341:9-344:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:343:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:344:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:342:13-65
+activity#org.debuggers.anew.toura.ShamoliService
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:345:9-348:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:347:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:348:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:346:13-67
+activity#org.debuggers.anew.toura.HanifEnterPrise
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:349:9-352:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:351:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:352:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:350:13-68
+activity#org.debuggers.anew.toura.shohagParibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:353:9-356:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:355:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:356:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:354:13-68
+activity#org.debuggers.anew.toura.SoudiaParibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:357:9-360:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:359:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:360:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:358:13-68
+activity#org.debuggers.anew.toura.EagleParibhan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:361:9-364:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:363:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:364:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:362:13-66
+activity#org.debuggers.anew.toura.TrTravels
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:365:9-368:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:367:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:368:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:366:13-62
+activity#org.debuggers.anew.toura.SpGoldentpariBhahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:369:9-372:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:371:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:372:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:370:13-72
+activity#org.debuggers.anew.toura.UltraModernParibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:373:9-376:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:375:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:376:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:374:13-73
+activity#org.debuggers.anew.toura.ModernEnterPrise
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:377:9-380:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:379:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:380:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:378:13-69
+activity#org.debuggers.anew.toura.ShaAliFatehAliParibhan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:381:9-384:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:383:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:384:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:382:13-75
+activity#org.debuggers.anew.toura.Nabilparibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:385:9-388:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:387:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:388:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:386:13-67
+activity#org.debuggers.anew.toura.almuburakparibhan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:389:9-392:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:391:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:392:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:390:13-70
+activity#org.debuggers.anew.toura.unitedParibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:393:9-396:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:395:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:396:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:394:13-68
+activity#org.debuggers.anew.toura.SakuraParibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:397:9-400:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:399:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:400:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:398:13-68
+activity#org.debuggers.anew.toura.parjatakParibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:401:9-404:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:403:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:404:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:402:13-70
+activity#org.debuggers.anew.toura.EnaPariable
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:405:9-408:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:407:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:408:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:406:13-64
+activity#org.debuggers.anew.toura.AkTravels
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:409:9-412:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:411:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:412:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:410:13-62
+activity#org.debuggers.anew.toura.KuwakatExpress
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:413:9-416:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:415:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:416:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:414:13-67
+activity#org.debuggers.anew.toura.keyaParibon
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:417:9-420:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:419:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:420:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:418:13-64
+activity#org.debuggers.anew.toura.DreamLine
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:421:9-424:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:423:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:424:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:422:13-62
+activity#org.debuggers.anew.toura.Skyline
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:425:9-428:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:427:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:428:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:426:13-60
+activity#org.debuggers.anew.toura.NislamAcitvity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:429:9-432:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:431:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:432:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:430:13-67
+activity#org.debuggers.anew.toura.MamunEnterPrise
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:433:9-436:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:435:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:436:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:434:13-68
+activity#org.debuggers.anew.toura.SungondaParibahan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:437:9-440:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:439:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:440:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:438:13-70
+activity#org.debuggers.anew.toura.DeshTravels
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:441:9-444:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:443:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:444:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:442:13-64
+activity#org.debuggers.anew.toura.GrameenPharibahn
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:445:9-448:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:447:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:448:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:446:13-69
+activity#org.debuggers.anew.toura.AsiaExpress
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:449:9-452:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:451:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:452:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:450:13-64
+activity#org.debuggers.anew.toura.Dhaka
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:453:9-456:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:455:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:456:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:454:13-58
+activity#org.debuggers.anew.toura.AkotaExpress
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:457:9-460:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:459:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:460:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:458:13-65
+activity#org.debuggers.anew.toura.KharnupholiPharabon
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:461:9-464:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:463:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:464:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:462:13-72
+activity#org.debuggers.anew.toura.ShebaPari
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:465:9-468:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:467:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:468:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:466:13-62
+activity#org.debuggers.anew.toura.SAPAribaihan
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:469:9-472:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:471:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:472:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:470:13-65
+activity#org.debuggers.anew.toura.MoinotGhat
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:473:9-476:48
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:475:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:476:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:474:13-63
+activity#org.debuggers.anew.toura.TrainActivity
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:477:9-482:15
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:478:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:479:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:477:19-72
+activity#org.debuggers.anew.toura.AllTransport
+ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:483:9-488:15
+	android:screenOrientation
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:484:13-49
+	android:theme
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:485:13-45
+	android:name
+		ADDED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml:483:19-71
+uses-sdk
+INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/ib-internetbasic/.android/build-cache/15950657140e9ad48f4d79892a24e0a3cc535795/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:10.2.0] /Users/ib-internetbasic/.android/build-cache/3fc49fc0e27f0d1991e0ef35fce00216e84aaee5/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/336282fc73a07ff7beb79834780795b66ad102f5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /Users/ib-internetbasic/.android/build-cache/a106ef20f850d1b18a3e3ce7caaf917d99049ae5/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/ib-internetbasic/.android/build-cache/b89e939e13e48561956bb6cd5d1ef12b3a207c65/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/ib-internetbasic/.android/build-cache/b7ef9c6e51b6f378009110fb6adeb33748520299/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/ib-internetbasic/.android/build-cache/7fe22523ce34ec0b91249f6f7a408985410ff05b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/ib-internetbasic/.android/build-cache/55e0aa37351b0d5a74fd52001e0d31c5624f7476/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/ib-internetbasic/.android/build-cache/382b3f1cf21be33330effde5f202ea1c2d7dd7b2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ffc6965f92002d76260eb4830af3fb41ab9937c7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /Users/ib-internetbasic/.android/build-cache/50e941f0c40bcc2900246a65015049ef556bc41a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /Users/ib-internetbasic/.android/build-cache/d4d5bfacb9dc251918bc35b4e27ada69bc5eddb2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /Users/ib-internetbasic/.android/build-cache/813d2bd59f1593991de6be7132f4dd7814dada74/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/f19c135c80ab4ebdf6503e076c8b9ecf22dea291/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/ib-internetbasic/.android/build-cache/45437101142a514c425b622d5361807db5275b71/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/ib-internetbasic/.android/build-cache/ae504fe3ca45aca75dfba6a835aade0685d9a8f8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/ib-internetbasic/.android/build-cache/881de895beeb78950f524fac0419d1a1f8c30740/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/ib-internetbasic/.android/build-cache/05ef8c91c37c9607c50af06e4c62587aaac79a83/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/ib-internetbasic/.android/build-cache/53f254d45564d6c7a1e8937e449f0c6d9033a090/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1a718f3fc1dbcd1b7b702ee073a8c70a3c69e942/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /Users/ib-internetbasic/.android/build-cache/f6d923aa7c96768d6b8c24ee23bc85ad076a1103/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/ib-internetbasic/.android/build-cache/821b871bc9a1886cf5a746d894b1ecb5d1cbf91c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/ib-internetbasic/.android/build-cache/b40808d86a7a932cfbe171c0cfe07a45fd99e88d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/ib-internetbasic/.android/build-cache/7f1c8f3026638f4bd90de5b8879414b47b4269be/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/ib-internetbasic/.android/build-cache/813f9e69ef7f7726188cb9f443e8cf13b4909b20/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/ib-internetbasic/.android/build-cache/ba5b70eabd5b7fa8f0d568468a75da1b2ea33d79/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/ib-internetbasic/.android/build-cache/ba5228f35b500f766eee431e1ffc4a5f2d610f12/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /Users/ib-internetbasic/.android/build-cache/db1c031dfeeb944ce9d3e2fe0d547c554b37e82c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/86433d004139bbf495d461c111cc180bea811135/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/4dda698847cae9a4bbbcc932e0b68c7d356a3bd2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/4082dc93b5bc0656011e8ceed7b2612aae9dad57/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/be5b2a55e39c7a5055ecc7d534e1a296bd694873/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/ib-internetbasic/.android/build-cache/2c7851b184bb7552626b3ee06eb3f52b8e5ff6a2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /Users/ib-internetbasic/.android/build-cache/93737a12c1d67d298e67dd49c348b7f294e05a55/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/ib-internetbasic/.android/build-cache/0e9b4d70388ec40e3aae3b010f9cfc5a135e7f6e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/ib-internetbasic/.android/build-cache/57eaeb3fdb5165b002cabc6e6553e632ae8ad997/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /Users/ib-internetbasic/.android/build-cache/614de061ad24a8305fd2a16ec11ebd0f0af0d4d7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/ib-internetbasic/.android/build-cache/0088b9224a9be1a1f0ae7d0d69fcb1b75eb4efaf/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/ib-internetbasic/.android/build-cache/560c7918832bf626f7f74029866d639c218dae94/output/AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:customtabs:25.2.0] /Users/ib-internetbasic/.android/build-cache/6bc107f41e4ab37f29740120eee4d423e4af0aae/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/ib-internetbasic/.android/build-cache/a86309e4100924fd128fd7a4ca691b9641b3eb5b/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/ib-internetbasic/.android/build-cache/9a99a4679e7887fdbe8753e81531377ec263d064/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/ib-internetbasic/.android/build-cache/1a59a5c12d340fd014495d89a69fc13a9b41dc88/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.1.0] /Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/ib-internetbasic/.android/build-cache/acdfe552911b496aa70e9d9ca7f6909bf5b9d71d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/ib-internetbasic/.android/build-cache/e6a2385b9ebb090d1bb412e3dc258e766b6da18c/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/ib-internetbasic/.android/build-cache/7227a24e5ecf7854b1b75e061be11ee65d1c2823/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /Users/ib-internetbasic/.android/build-cache/b645d0e9b335a95e5da019d3e6aa25e33487bd92/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/ib-internetbasic/.android/build-cache/fa659b8990fd36dfef8b5b97cec2359604fc38b3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/ib-internetbasic/.android/build-cache/93380a14fdd83264bc3552060d488564fd14feff/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/ib-internetbasic/.android/build-cache/33f845f33c91ec9be191f52cb404fb14840beca8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/ib-internetbasic/.android/build-cache/73adeb17a60174989400905759a86fd1dc57fa5a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/ib-internetbasic/.android/build-cache/fce18c524e3638989f7b96d35b22931bbde10e26/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/ib-internetbasic/.android/build-cache/0eec1650c104a7553a13979abe8276cc9d178b62/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.1.0] /Users/ib-internetbasic/.android/build-cache/5144ca4f3b873a5fa0526b314472f830d0b4e496/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/ib-internetbasic/.android/build-cache/d13d0b3641f50f74758c2de8458a9a7b2c989362/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/336282fc73a07ff7beb79834780795b66ad102f5/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/86433d004139bbf495d461c111cc180bea811135/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/be5b2a55e39c7a5055ecc7d534e1a296bd694873/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/336282fc73a07ff7beb79834780795b66ad102f5/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/ib-internetbasic/.android/build-cache/eb3b4604440086a36ee555b82245dfe11a54bf84/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/ib-internetbasic/.android/build-cache/ee922172ac57fd0eaf3a0b6c08a0f27147737200/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/ib-internetbasic/.android/build-cache/19fe413a181cfe9a79f5dd9efc7678f6780b6857/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/ib-internetbasic/.android/build-cache/05ef8c91c37c9607c50af06e4c62587aaac79a83/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1a718f3fc1dbcd1b7b702ee073a8c70a3c69e942/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/ib-internetbasic/.android/build-cache/05ef8c91c37c9607c50af06e4c62587aaac79a83/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/ib-internetbasic/.android/build-cache/1cbb79accf42c09d2eeb77cff0f2f4ca41bff080/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/86433d004139bbf495d461c111cc180bea811135/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/ib-internetbasic/.android/build-cache/86433d004139bbf495d461c111cc180bea811135/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/ib-internetbasic/.android/build-cache/8dcf07307651de7089677da8a78d71006a3c9e1b/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/ib-internetbasic/.android/build-cache/1532fd5ada0fbb7c102231fb7f24009b42fb9050/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/4dda698847cae9a4bbbcc932e0b68c7d356a3bd2/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/4dda698847cae9a4bbbcc932e0b68c7d356a3bd2/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/4dda698847cae9a4bbbcc932e0b68c7d356a3bd2/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/4dda698847cae9a4bbbcc932e0b68c7d356a3bd2/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/ib-internetbasic/.android/build-cache/4dda698847cae9a4bbbcc932e0b68c7d356a3bd2/output/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/ib-internetbasic/.android/build-cache/7003a48226cd142d20eeeb42aac0b66a1de7efa5/output/AndroidManifest.xml:26:19-91
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/ib-internetbasic/.android/build-cache/a86309e4100924fd128fd7a4ca691b9641b3eb5b/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/ib-internetbasic/.android/build-cache/a86309e4100924fd128fd7a4ca691b9641b3eb5b/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/ib-internetbasic/.android/build-cache/a86309e4100924fd128fd7a4ca691b9641b3eb5b/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/AndroidManifest.xml:19:19-85

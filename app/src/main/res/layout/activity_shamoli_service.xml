@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    tools:context="org.debuggers.anew.toura.ShamoliService">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Shyamoli Paribahan has routs to about 40 districts in Bangladesh from Dhaka. Moreover, Calcutta and Shiliguri routes are available in Shyamoli travels. All buses of Shymoli Travels are “Chair Coach”. Both AC (Air Conditioned) and Non-AC bus services are available here.\n\n
+Main Counter Contact:\n
+Kollyanpur Counter\n
+12, South Kollyanpur, Mirpur Road, Dhaka.\n
+Tel: 02-900331, 02-8034275.\n\n
+Other Counters in Dhaka:\n
+Counter Address : \n
+
+Komlapur Counter\n
+BRTC bus stand, Komlapur, Dhaka.\n
+Tel: 02-8360241\n
+Mob: 01716-942158\n\n
+Asad gate Counter\n
+1/16, Asad Gate, Dhaka.\n
+Tel: 02-8124881, 02-9124514.\n
+Panthapath Counter\n
+Panthapath, Dhaka.\n
+Tel: 02-9102082.\n\n
+Arambag Counter\n
+167/21, Inner Circular Road, Arambag, Dhaka.\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

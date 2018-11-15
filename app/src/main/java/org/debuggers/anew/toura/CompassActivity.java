@@ -78,7 +78,7 @@ public class CompassActivity extends AppCompatActivity implements SensorEventLis
             float orientation [] = new float [3];
             SensorManager.getOrientation(R,orientation);
             azimutch =(float) Math.toDegrees(orientation[0]);
-            azimutch = (azimutch+360)%360;
+            azimutch = (azimutch+360+200)%360;
             Animation anim = new RotateAnimation(-currentAzimuth,-azimutch,
                     Animation.RELATIVE_TO_SELF,0.5f,Animation.RELATIVE_TO_SELF,0.5f);
             currentAzimuth =azimutch;

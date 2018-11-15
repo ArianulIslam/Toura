@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.SpGoldentpariBhahan">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="SP Golden Line has the following regular routes from Dhaka: (Both AC and Non-AC are available)\n
+*Magura\n
+*Jessore\n
+*Satkhira\n\n
+Corporate Office of SP Golden Line:\n
+Kacharipara, Satkhira\n
+Tel: 0471-63380, 0471-64709, 0471-64710\n
+E-mail: mslaskar@yahoo.com\n\n
+Counters in Dhaka of SP Golden Line:\n
+
+Motijheel Counter\n
+167, Circular Road, Motijheel.\n
+(Opposite of Notre Dame College, at Eden Market)\n
+Mob: 01740-543136\n
+Kolabagan counter\n
+Mob: 01740-961077\n
+Shyamoli Counter\n
+At the side of Shyamoli Cinema Hall\n
+Tel: 02-8124795\n
+Mob: 01740-949641\n
+Kollyanpur Counter\n
+At Kollyanpur bus stand\n.
+Mob: 01740-949642\n
+Gabtoli Counter\n
+At Gabtoli bus termonal.\n
+Tel: 02-8124964\n
+Mob: 01740-949643\n
+Savar Counter\n
+Mob: 01195-427732\n
+Nobinagar Counter\n
+Mob: 01721-844610\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

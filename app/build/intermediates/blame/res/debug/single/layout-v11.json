@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v11/notification_media_action.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/layout-v11/notification_media_action.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/layout-v11/notification_template_big_media_custom.xml"
     }
 ]

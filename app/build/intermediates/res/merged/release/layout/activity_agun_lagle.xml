@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_agun_lagle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.AgunLagle">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="আগুনে শরীরে লাগলে করনীয় :\n\n
+
+• আগুনে পোড়া ত্বকের আক্রান্ত জায়গায় অন্য কিছু না দিয়ে সাধারন তাপমাত্রায় ঠান্ডা করতে হবে অথবা আস্তে আস্তে পোড়া জায়গায় পানি ঢালতে হবে যাতে ত্বকের আপমাত্রা স্বাভাবিক হয়ে আসে, ব্যাথা কমে যায়, পোড়া জায়গায় কোনো ঘাঁ সৃষ্টি না হয়।\n\n
+• আগুনে পোড়া রোগীর কাপড় শরীর থেকে খুলে নিতে হবে। পুড়ে যাওয়া রোগীকে সোজা করে সমতল জায়গায় শুইয়ে দিতে হবে। ত্বকের সাথে হালকা ভাবে লেগে যাওয়া কাপড়গুলো আস্তে আস্তে খুলে নিতে হবে, শরীরে কোনো অলংকার, গয়না, পায়ে জুতা থাকলে তাও খুলে নিতে হবে যাতে শরীরে কোনো মারাত্বক ধরনের ক্ষত তৈরী হতে না পারে। যদি কাপড় পুড়ে পোড়া ত্বকে লেগে থাকে তবে পোড়া কাপড়গুলো খুব দ্রুত আস্তে আস্তে শরীর থেকে সরিয়ে নিতে হবে।\n\n
+• ত্বকের উপড়িভাগের পোড়া অংশ পরিস্কার কাপড় দিয়ে ঢেকে দিতে হবে। পরিস্কার পানি দিয়ে পোড়া জায়গা ঠান্ডা করার পর আক্রান্ত পোড়া জায়গা ড্রেসিং করে ব্যান্ডেজ করে দিতে হবে। পুড়ে যাওয়া রোগীর শরীর পরিস্কার কাপড় দিয়ে ডেকে দিতে হবে যাতে রোগীর শরীরের তাপমাত্রা স্বাভাবিক থাকে।\n\n
+• পুড়ে যাওয়া রোগীকে খুব দ্রুত হাসপাতালে নিতে হবে।জটিল পুড়ে যাওয়া রোগীকে খুব দ্রুত হাসপাতালে নিতে অবহেলা করবেন না।\n\n
+• পোড়া রোগীর ত্বকে মলম লাগাবেন না। বিশেষ ধরনের স্প্রে, ক্রীম ইত্যাদি লাগানো যেতে পারে। লোকমুখে শুনে আক্রান্ত পোড়া রোগীর শরীরে অন্য কোনো কিছু লাগানো যাবে না।\n\n
+• বিশেষ ভাবে মনে রাখতে হবে, শরীরের অধিকাংশ জায়গা আগুনে পুড়ে গেলে রোগীর শরীরের তাপমাত্রা খুব দ্রুত কমে যেতে পারে। আগুনে পোড়া রোগী যদি ঠান্ডার অনুভুতি প্রকাশ করে তাঁর শরীর মোটা কাথাঁ, মোটা কাপড় দিয়ে ডেকে দিতে হবে এবং খুব দ্রুত ডাক্তারের কাছে রোগীকে নিয়ে যেতে হবে।\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

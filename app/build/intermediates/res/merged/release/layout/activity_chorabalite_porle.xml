@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_chorabalite_porle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.ChorabalitePorle">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="চোরাবালি বাংলাদেশের অনেক জায়গায় আছে এবং সে গুলো অনেক জায়গায় চিন্থিত না ৷\n\n
+১.চোরাবালীতে যদি আপনি নড়াচড়া বেশী করেন সে ক্ষেএে চোড়া বালি থেকে উঠতে পারবেন না বরং আপনী আরো চোরাবালি গভীরে যাবেন ৷\n
+২.যদি কোমড় পর্যন্ত আটকে যান সেক্ষেএে জ্যাম্যেতিক চাঁদার আকারে ডান এবং বাম পাশে চাঁদার কাঠামোর মত আস্তে আস্তে ভিতরের চোরাবালি গুলো পা দিয়ে শরান ৷ এবং কিছু ভর করে বা রশির এবং আশে পাশের মানুষের সাহায্যে টেনে চোরাবালি থেকে উঠুন৷\n
+৩. চোরাবালিতে বুক পর্যন্ত আটকে থাকলে জ্যাম্যেতিক চাঁদার কাঠামোর আকারে হাত—পা উভয় দিয়ে ডান এবং বাম পাশে চাঁদার কাঠামোর মত আস্তে আস্তে ভিতরের চোরাবালি গুলো হাত— পা দিয়ে শরান ৷ এবং কিছু ভর করে বা রশির এবং আশে পাশের মানুষের সাহায্যে টেনে চোরাবালি থেকে উঠুন৷\n
+৩. চোরাবালিটি যদি ছোট গর্তের মত হয় তাহলে সামনের শুকনো যায়গায় কুনোইয়ের দ্বারা ভর করে চোরাবালি হতে পায়ের অংশ বাহির করার চেষ্টা করুন ৷\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

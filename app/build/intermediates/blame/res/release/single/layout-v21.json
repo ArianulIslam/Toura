@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/813f9e69ef7f7726188cb9f443e8cf13b4909b20/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/layout-v21/notification_action.xml"
+    }
+]

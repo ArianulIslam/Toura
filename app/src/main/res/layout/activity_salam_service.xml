@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.SAlamService">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="S Alam Service has the following regular routes from Dhaka:\n
+*Cox’s Bazar\n
+*Bandarban\n
+*Kaptai\n
+*Rangamati\n
+*Chittagong\n
+*Rajshahi\n
+*Benapol\n
+*Calcutta\n\n
+All buses of S Alam Service are “Chair Coach”. But there is no AC (Air Conditioned) bus service.\n\n
+Main Counter Contact:\n
+Saydabad Counter\n
+02-9002702,\n
+01813-329394\n\n
+Other Counters in and around Dhaka:\n
+Fokirapul Counter\n
+02-9331868\n\n
+Komlapur Counter\n
+02-8315087,\n
+01917-720395\n\n
+Saritola Counter\n
+01819-539601\n\n
+Gabtoli Counter\n
+02-9002702,\n
+01813-329394\n\n
+Gajipur Counter\n
+01676-198456\n\n
+Tongi Counter\n
+01711-076330\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

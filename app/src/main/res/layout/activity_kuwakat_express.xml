@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.KuwakatExpress">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Kuakata Express has the following regular routes from Dhaka: (Both AC and Non-AC bus services are available)\n
+*Barisal\n
+*Potuakhali\n
+*Kuakata\n\n
+Main Counter of Kuakata Express:\n
+33, Saydabad, Dhaka.\n
+Mobile: 01761-784382, 01682-903813\n\n
+Other Counters of Kuakata in Dhaka:\n
+
+Savar Counter\n
+01761-784384\n
+Nobinagar Counter\n
+01761-784386\n
+Saydabad Counter\n
+01761-784382,\n
+01682-903813\n
+Gabtoli Counter\n
+01761-784383\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

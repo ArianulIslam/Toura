@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_pet_betha_korle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.PetBethaKorle">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="পেট ব্যাথা করলে করনীয়:\n\n
+সাময়িক কারণে পেটব্যথা হলে সাধারণত কোনো চিকিৎসা ছাড়াই ভালো হতে পারে।\n
+
+পেটব্যথার প্রাথমিক চিকিৎসা হিসেবে অ্যান্টি স্পাজমেটিক ওষুধ সেবন করলে
+পাওয়া যায়। বাজারে এ ওষুধগুলো সহজলভ্য। ভালো ফল\n
+
+প্রাথমিক চিকিৎসা হিসেবে অ্যান্টি  স্পাজমেটিক ওষুধ সেবন করলে ভালো ফল
+পাওয়া যায়। বাজারে এ ওষুধগুলো সহজলভ্য।\n
+
+ইনফেকশনজনিত পেটব্যথায় অ্যান্টিবায়োটিকের প্রয়োজন হয়। জিইআরডি, আলসার ইত্যাদি কারণ দূর করতে কিছু ওষুধ সেবন করলেই চলে।  তবে  অ্যাপেন্ডিসাইটিস, হার্নিয়া, পারফোরেশন ইত্যাদ
+পারফোরেশন বে  অ্যাপেন্ডিসাইটিস, হার্নিয়া,
+পারফোরেশন ইত্যাদি কারণে পেটব্যথা হলে অস্ত্রোপচারের
+প্রয়োজন হতে পারে।\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"/>
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

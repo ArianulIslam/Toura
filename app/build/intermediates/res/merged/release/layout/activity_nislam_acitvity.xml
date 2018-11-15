@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.NislamAcitvity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="N Islam Enterprise has the following regular routes from Dhaka: (Only Non-AC chair coach bus service is available)\n
+*Panchagar
+*Taraganj
+Dhaka Counter of N Islam Enterprise:\n
+Abdullahpur Counter: 01682-634811\n\n
+Other Counters of N Islam Enterprise:\n
+Taraganj: 01916-774568\n
+Panchagar: 01675-093882\n
+Boda: 01680-809688\n
+Bhulli: 01934-117597\n
+Narayanganj: 01827-167236\n
+Kachpur: 01923-476250\n
+Narayanganj Chashra: 01680-634811\n
+Complain Center: 01677-049499, 01722-522297\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.debuggers.anew.toura.GrameenPharibahn">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Grameen Service Pvt. Ltd. has the following regular routes from Dhaka: (Only Non-AC chair coach bus service is available)\n
+*Bagerhat\n
+*Barisal\n
+*Kuakata\n
+*Mongla\n
+*Pirojpur\n\n
+Dhaka Counter of Grameen Service Pvt. Ltd.:\n
+33, Saydabad (Aside of Janapath More of the highway), Dhaka.\n
+Contact: 01736-176655, 01770-806100\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

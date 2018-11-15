@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Toura</string>
+    <string name="activedes"></string>
     <string name="title_activity_need_car">NeedCarActivity</string>
     <string name="title_activity_speed_meter">SpeedMeterActivity</string>
     <string-array name="names">
@@ -77,30 +78,79 @@
         <item>Ahsan Manzil(আহ্সান মঞ্জিল)</item>
         <item>JaduPai Jhorna(জাদিপাই)</item>
         <item>Nilachal(নীলাচল)</item>
+        <item>Moinot Ghat(মৈনট ঘাট, দোহার)</item>
 
 
     </string-array>
 
     <string-array name="PramaryTreatment">
         <item>ভ্রমনে সর্বাধিক প্রয়োজনীয় প্রাথমিক চিকিৎসার উপাদান</item>
-        <item>পানিতে ডুবে গেল?</item>
-        <item>সাপে কামড় দিলে?</item>
-        <item>জোঁক, পিঁপড়া, বিচ্ছা ও পোকার কামড় দিলে করনীয়?
+        <item>ভ্রমনে পানিতে ডুবে গেল?</item>
+        <item>ভ্রমনে সাপে কামড় দিলে?</item>
+        <item>ভ্রমনে জোঁক, পিঁপড়া, বিচ্ছা ও পোকার কামড় দিলে করনীয়?
 </item>
-        <item>কুকুর বা অন্য জন্তু কামড় দিলে?</item>
-        <item>পেট ব্যথা করলে?</item>
-        <item>হাত পা ভাংলে বা মচকালে?</item>
-        <item>মাথা ব্যাথা করলে?</item>
-        <item>চোরাবালিতে পরে গেলে?</item>
-        <item>আগুন এ কোন অংশ পুড়ে গেলে?</item>
-        <item>হাত পা কোথাও কেটে গেলে?</item>
-        <item>ইলেক্টিক সর্ট খেলে?</item>
-        <item>হার্ট এর্টকা করলে?</item>
-        <item>হাপানি  শ্বাস প্রশ্বাস প্রব্লেম হলে?</item>
+        <item>ভ্রমনে কুকুর বা অন্য জন্তু কামড় দিলে?</item>
+        <item>ভ্রমনে পেট ব্যথা করলে?</item>
+        <item>ভ্রমনে হাত পা ভাংলে বা মচকালে?</item>
+        <item>ভ্রমনে মাথা ব্যাথা করলে?</item>
+        <item>ভ্রমনে চোরাবালিতে পরে গেলে?</item>
+        <item>ভ্রমনে আগুন এ কোন অংশ পুড়ে গেলে?</item>
+        <item>ভ্রমনে হাত পা কোথাও কেটে গেলে?</item>
+        <item>ভ্রমনে ইলেক্টিক সর্ট খেলে?</item>
+        <item>ভ্রমনে হার্ট এর্টকা করলে?</item>
+        <item>ভ্রমনে হাপানি  শ্বাস প্রশ্বাস প্রব্লেম হলে?</item>
     </string-array>
     <string name="title_activity_vola_gonj10">VolaGonj10</string>
     <string name="title_activity_mymap">Toura Map</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
     <string name="title_activity_maps">Map</string>
+
+    <string-array name="BusTrains">
+
+        <item>Bus Service</item>
+        <item>Railway Service</item>
+      <!--  <item>Launch Service</item>-->
+    </string-array>
+    <string-array name="BusCompanyName">
+
+        <item>Green Line</item>
+        <item>S Alam Service</item>
+        <item>Shyamoli Paribahan</item>
+        <item>SA Paribahan</item>
+        <item>Sakura Paribahan</item>
+        <item>Sundarban Service Pvt. Ltd.</item>
+        <item>Sky Line Express</item>
+        <item>Hanif Enterprise</item>
+        <item>Sugandha Paribahan</item>
+        <item>Ena Paribahan</item>
+        <item>Shohag Paribahan</item>
+        <item>Soudia Paribahan</item>
+        <item>Eagle Paribahan</item>
+        <item>Grameen Service Pvt. Ltd.</item>
+        <item>TR Travels</item>
+        <item>SP Golden Line</item>
+        <item>Ultra Modern Paribahan</item>
+        <item>Modern Enterprise</item>
+        <item>Shah Fateh Ali Paribahan</item>
+        <item>Nabil Paribahan</item>
+        <item>Al Mobarak Paribahan</item>
+        <item>United Paribahan</item>
+        <item>Parjatak Paribahan</item>
+        <item>AK Travels</item>
+        <item>Kuakata Express</item>
+        <item>Dream Line Special</item>
+        <item>Keya Paribahan</item>
+        <item>N Islam Enterprise</item>
+        <item>Mamun Enterprise</item>
+        <item>Desh Paribahan Pvt. Ltd.</item>
+        <item>Asia Exclusive</item>
+        <item>Dhaka Express</item>
+        <item>Akota Paribahan</item>
+        <item>Karnaphuli Paribahan</item>
+        <item>Seba Chair Coach</item>
+
+
+    </string-array>
+
 
 </resources>

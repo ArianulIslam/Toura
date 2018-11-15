@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/bus.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/bus.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/rentcar.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/rentcar.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/maplocation.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/maplocation.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/emergency.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/emergency.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/races.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/races.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/calculator.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/calculator.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/firstaidkit.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/firstaidkit.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/compass.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/compass.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/geolocalization.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/geolocalization.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable-xhdpi/musicplayer.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable-xhdpi/musicplayer.png"
+    }
+]

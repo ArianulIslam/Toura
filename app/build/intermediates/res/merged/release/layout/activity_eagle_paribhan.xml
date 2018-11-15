@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    tools:context="org.debuggers.anew.toura.EagleParibhan">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Eagle Paribahan has the following regular routes from Dhaka: (Both AC and Non-AC are available)\n\n
+*Khulna\n
+*Barisal\n
+*Bagerhat\n
+*Jessore\n
+*Benapole\n
+*Norail\n
+*Satkhia\n
+*Chittagong\n
+*Cox’s Bazar\n
+*Rangamati\n
+*Khagrachori\n\n
+Eagle Paribahan’s Main Counter\n:
+Eagle Paribahan Counter\n
+Gabtoli Bus Terminal, Dhaka.\n
+Tel: 02-9006700.\n\n
+Other Counters in Dhaka:\n
+
+Gabtoli Counter No. 2\n
+02-9006700\n
+Motijheel\n
+02-7193504\n
+Motijheel RM\n
+02-7191108\n
+Fokirapool\n
+02-9346391\n
+Abdullahpur\n
+02-8959820\n
+Kollyanpur\n
+02-9013224\n
+Panthapath\n
+02-8128420\n
+Kolabagan\n
+02-9116837\n
+Bango Bazar\n
+02-7161699\n
+Victoria Park\n
+02-7173455\n
+Malibagh\n
+02-8353200\n
+Badda\n
+02-9892700\n
+Savar\n
+02-7744524\n
+Nobinagar\n
+02-7791541\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

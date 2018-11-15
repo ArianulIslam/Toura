@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_ali_surong1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.ALiSurong1">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="আলীকদম উপজেলা বান্দরবানের  সদর থেকে মাত্র তিন কিলোমিটার দূরেই মাতামুহুরী-তৈন খাল ঘেঁষে দাঁড়িয়ে থাকা দু‘পাহাড়ের চূঁড়ায় প্রাকৃতিক ভাবে সৃষ্ট আলীর গুহা বা আলীর সুড়ঙ্গ । ঝিরি থেকে প্রায় দেড়শত ফিট উপরে এই গুহা । দেখতে ভয়ংকর! পাহাড়ের মাঝখানে লম্বাকৃতির এই গুহাটি প্রায় ১০০ ফুট লম্বা। তার পাশেই আরও দু‘টি গুহা রয়েছে। গুহার ভেতরে অন্ধকার! টচ লাইট বা আগুনের মশাল নিয়ে প্রবেশ করতে হয়। গুহার ভেতরে রয়েছে ছোট বড় চাপা বাদুর রয়েছে।
+
+\n\n
+কিভাবে যাওয়া যায়ঃ \n
+
+আপনাকে ঢাকা থেকে প্রথমে চট্রগ্রাম-কক্সবাজার সড়কের চকরিয়া বাস স্টপিজে নামতে হবে । ঢাকা থেকে নন এসি বাস ভাড়া-৭৫০ টাকা। আবার ট্রেনে চট্রগ্রাম হয়ে চট্রগ্রাম থেকে বাসে চকরিয়া যেতে পারবেন । চট্রগ্রাম থেকে চকরিয়া জন প্রতি বাস ভাড়া-১৭০ টাকা।আলিকদমের উদ্দ্যেশে চকরিয়া বাস স্টপিজ থেকে মাতামুহুরী পরিবহণ সার্ভিসের বাস প্রতিদিন সকাল ৭.৩০ থেকে সন্ধ্যা ৬.৩০ পর্যন্ত ছেড়ে যায় । আর আলিকদম থেকে প্রতিদিন সকাল ৭.০০ শুরু হয় বিকেল ৫.৩০ পর্যন্ত চকরিয়ার উদ্দেশ্যে ছেড়ে যায়। দুই দিক থেকেই ৪০ মিনিট পর পর গাড়ী ছেড়ে যায়। ভাড়া জনপ্রতি ৬০ টাকা। সময় লাগে ১ ঘন্টা ৪০ মিনিটের মতো। চকরিয়া থেকে আলীকদম চান্দের গাড়িতে আসতে পারবেন। লোকাল ভাড়া জন প্রতি ৬৫ টাকা। রিজার্ব ভাড়া এক পথ ১২০০-১৪০০ টাকার মত।
+বাসে গেলে দুই ঘণ্টা। আর চাঁদের গাড়িতে গেলে ৩০ মিনিট বা ৪০ মিনিট কম লাগবে। সেনাজোন থেকে নৌকায় আলীর সুড়ঙ্গে। সকালে গিয়ে বিকেলে ফিরে আসা যায়।
+আলীর সুড়ঙ্গে আগে গিয়ে না থাকলে অবশ্যই গাইড নিবেন ।
+
+
+ \n\n
+কোথায় থাকবেনঃ \n
+
+আপনি ইচ্ছে করলে ঢাকা থেকে রাতের বাসে গিয়ে চকরিয়া নেমে এক দিনে আলীর সুড়ঙ্গ, রূপমুহুরী ঝর্ণা দেখে আবার রাতের বাসে ঢাকার উদ্দেশ্যে রওনা দিতে পারবেন। চট্রগ্রাম থেকেও একদিনে দেখে আসতে পারবেন । তারপরও যদি থাকতে হয় জেলা পরিষদেরে একটি ডাক বাংলো আছে যার অবস্থান বাস স্ট্যান্ড থেকে স্বল্প দুরত্বে পান বাজারে আর ব্যক্তি মালিকানা একটি বোর্ডিং আছে যার অবস্থান আলীকদম বাজারে। ডাক বাংলোতে মোট ১০ টি রুম আছে । ভাড়া – নীচ তলার ৫০০ টাকা করে। দ্বিতীয় তলার ১০০০ টাকা করে। জিয়া বোর্ডিং এ দুই বিছানার রুম ভাড়া- ৪৫০ টাকা ।
+\n\n
+কোথায় খাবেনঃ \n
+
+আলীকদমের খাবার হোটেল গুলো মোটামুটি মানের।
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

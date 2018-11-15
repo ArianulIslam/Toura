@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_botanikal_garden_place9"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.BotanikalGardenPlace9">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="
+\nবাংলাদেশের জাতীয় উদ্ভিদউদ্যান বোটানিক্যালগার্ডেন হিসেবে পরিচিতই বেশী।ঢাকা চিড়িয়াখানার পাশেই বোটানিক্যালগার্ডেন অবস্থিত।এই গার্ডেনে রয়েছে চেনা-অচেনা নানান  ধরনের গাছ।২০৮ একর জায়গার উপর প্রতিষ্ঠিত এই জাতীয় উদ্যান টি।প্রতিদিন শতশত সাধারণ মানুষ, দর্শনার্থী জাতীয় উদ্যান প্রদর্শন করতে আসে।\n\
+এই উদ্যান টিতেরয়েছে প্রায় ৮০০ জাতের বৃক্ষ রাজি।এইসব বৃক্ষ রাজির মধ্যে রয়েছে নানান ধরনের ফল ও ফুলের বাগান।উদ্যানটি প্রায় ২.৫ কিলোমিটার আয়তন বিশিষ্ট হওয়ায় ফল ও ফুলের বাগান ছাড়া ওরয়েছে পুকুর, দীঘি, ঝোপ ঝাড় ও নানান প্রজাতির ঔষধির গাছ।\n
+দর্শনার্থীরা যেকোন ধরনের বিপদে  গার্ডেনের ভিতরে অবস্থিত বন-বিভাগের কর্মকর্তার কার্যালয়ে গিয়ে অভিযোগ করতে পারেন।\n\n
+বন্ধ-খোলার সময়সূচীঃ\n
+মার্চ থেকেন ভেম্বরঃ প্রতি দিনসকাল ৯.০০টা থেকে বিকেল ৫.০০টা পর্যন্ত\n\n
+ডিসেম্বরথেকেফেব্রুয়ারিঃ প্রতি দিন সকাল ৯.০০ টা থেকে বিকেল ৪.৩০ টা পর্যন্ত\n\n
+টিকেট মূল্যঃ\n\n
+বড়দের ১০টাকা, ছোটদের ৫টাকা।কর্তৃপক্ষের অনুমতি সাপেক্ষ শিক্ষা সফরে আসা শিক্ষার্থীদের জন্য প্রবেশ মূল্য ৩ টাকা।
+কিভাবেযাবেনঃ\n\n
+গাবতলী বাসষ্ট্যান্ড থেকে ছোটলে গুনায় করে১০ টাকা ভাড়া দিয়ে সরাসরি বোটা নিক্যাল গার্ডেনে যাওয়া যায়।সদর ঘাট বাসষ্ট্যান্ড থেকে মিরপুর- ১ এ যেসব গাড়ী গুলো যায় তাতে উঠলে ২৫ টাকা ভাড়া দিয়ে বোটানিক্যাল গার্ডে নেযাওয়া যায়।
+মান সম্মত খাবারের জন্য মিরপুর-১ গোল চত্বরের যেকোন রেষ্টুরেন্ট ভালো।
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

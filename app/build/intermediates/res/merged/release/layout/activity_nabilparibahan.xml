@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.Nabilparibahan">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="312dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Nabil Paribahan has the following regular routes from Dhaka: (Only Non-AC service is available)\n
+*Rangpur\n
+*Bogra\n
+*Soidpur\n
+*Thakurnaon\n
+*Debigonj\n
+*Dinajpur\n
+*Domar\n
+*Fulbari\n
+*Kurigram\n\n
+Counters of Nabil Paribahan in Dhaka:\n
+Counter:\n
+
+Asad Gate\n
+02-8127949\n
+Kollyanpur\n
+02-8018076\n
+Fulbaria, Gulistan\n
+02-7161043\n
+Uttara, Sector-5\n
+01713-563801\n
+Chandura, Savar\n
+01713-510517\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

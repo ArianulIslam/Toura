@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_matha_betha"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    tools:context="org.debuggers.anew.toura.MathaBetha">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="মাথা ব্যাথায় করণীয় :\n\n
+যাদের এ রোগ আছে, তাদের অন্তত: দৈনিক ৮ ঘন্টা ঘুম আবশ্যক।\n
+অতিরিক্ত বা কম আলোতে কাজ না করা ।\n
+কড়া রোদ বা তীব্র ঠাণ্ডা পরিহার করতে হবে ।\n
+উচ্চশব্দ ও কোলাহলপূর্ণ পরিবেশে বেশিক্ষণ না থাকা।\n
+বেশি সময় ধরে কম্পিউটারের মনিটর ও টিভির সামনে না থাকা।\n
+সে সব খাবার খেলে মাইগ্রেন শুরু হতে পারে সে সব খাবার যেমন কফি, চকলেট, পনির, আইসক্রীম, মদ ইত্যাদি বর্জন করা উচিত।\n
+অধিক সময় উপবাস থাকা যাবে না।\n
+জন্মবিরতীকরন পিল সেবন না করা শ্রেয়। প্রয়োজনে অন্য পদ্ধতি বেছে নেয়া ভাল।\n
+পরিশ্রম, মানষিক চাপ এবং দীর্ঘ ভ্রমণ বর্জনের মাধ্যমে মাইগ্রেনের আক্রমণ অনেকাংশে কমিয়ে আনা সম্ভব।\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

@@ -1,6 +1,7 @@
 package org.debuggers.anew.toura;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
@@ -31,7 +32,7 @@ public class PlaceDetailsActivity extends AppCompatActivity {
         arrayListplaceName = new ArrayList<>();
         arrayListplaceName.addAll(Arrays.asList(getResources().getStringArray(R.array.Placenames)));
         adapter = new ArrayAdapter<String>(PlaceDetailsActivity.this,android.R.layout.simple_list_item_1,arrayListplaceName);
-
+      //  lv.setBackgroundColor(Color.RED);
         lv.setAdapter(adapter);
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener(){
@@ -299,6 +300,10 @@ public class PlaceDetailsActivity extends AppCompatActivity {
                 else if(pos==49){
                     Intent i = new Intent(view.getContext(),Nilacholplace34.class);
                     startActivityForResult(i,49);
+                }
+                else if(pos==50){
+                    Intent i = new Intent(view.getContext(),MoinotGhat.class);
+                    startActivityForResult(i,50);
                 }
 
 

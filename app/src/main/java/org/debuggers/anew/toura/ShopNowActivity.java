@@ -9,15 +9,18 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Button;
 import android.widget.Toast;
 
 import com.example.anew.toura.R;
 
 public class ShopNowActivity extends AppCompatActivity {
 public  WebView webView;
+    //public Button shopbtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // shopbtn = (Button)findViewById(R.id.button2);
 
         if(!isConnected(ShopNowActivity.this)){ buildDialog(ShopNowActivity.this).show();}
         else {

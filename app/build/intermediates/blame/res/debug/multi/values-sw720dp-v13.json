@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "outputFile": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "file": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "file": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

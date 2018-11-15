@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="org.debuggers.anew.toura.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+        "
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/gridLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="?android:attr/colorForeground"
+        android:onClick="OpenShopNow"
+        android:text="Shop for Travel"
+        tools:textColor="@android:color/holo_red_light" />
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="3"
+        android:padding="10dp"
+        android:rowCount="6"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="0"
+            android:onClick="OpenPlaceDetailsNow"
+            android:src="@drawable/geolocalization"
+            app:srcCompat="@drawable/geolocalization" />
+
+        <TextView
+
+            android:id="@+id/PlaceDetailsText"
+            android:layout_width="88dp"
+            android:layout_height="30dp"
+            android:layout_column="0"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="1"
+            android:text="Place Details"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <ImageButton
+            android:id="@+id/Compassbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="0"
+            android:onClick="OpenCompassNow"
+            app:srcCompat="@drawable/compass" />/>
+
+        <TextView
+
+            android:id="@+id/CompassText"
+            android:layout_width="88dp"
+            android:layout_height="27dp"
+            android:layout_column="1"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="1"
+            android:text="Compass"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+
+        <ImageButton
+            android:id="@+id/TourSongLyricsbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="2"
+            android:onClick="OpenTourSongNow"
+            app:srcCompat="@drawable/musicplayer" />
+
+        <TextView
+
+            android:id="@+id/MusicPlayerText"
+            android:layout_width="88dp"
+            android:layout_height="37dp"
+            android:layout_column="1"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="3"
+            android:text="Tour Song Lyrics"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <TextView
+
+            android:id="@+id/CalculatorText"
+            android:layout_width="88dp"
+            android:layout_height="39dp"
+            android:layout_column="2"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="3"
+            android:text="Tour Calculator+"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <ImageButton
+            android:id="@+id/PrimaryTreatBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="4"
+            android:onClick="OpenTreatmentNow"
+            app:srcCompat="@drawable/firstaidkit" />
+
+        <TextView
+
+            android:id="@+id/PrimaryText"
+            android:layout_width="88dp"
+            android:layout_height="46dp"
+            android:layout_column="0"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="5"
+            android:text="Primary Treatment"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <TextView
+
+            android:id="@+id/emergencyText"
+            android:layout_width="103dp"
+            android:layout_height="31dp"
+            android:layout_column="1"
+
+            android:layout_marginLeft="0dp"
+            android:layout_row="5"
+            android:text="Emergency"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <ImageButton
+            android:id="@+id/NeedCarbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="4"
+            android:onClick="OpenNeedCarNow"
+            app:srcCompat="@drawable/rentcar" />
+
+        <TextView
+
+            android:id="@+id/needCarTxt"
+            android:layout_width="103dp"
+            android:layout_height="37dp"
+            android:layout_column="2"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="5"
+            android:text="Need a Car?"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <TextView
+
+            android:id="@+id/SpeedMeterText"
+            android:layout_width="wrap_content"
+            android:layout_height="27dp"
+            android:layout_column="2"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="1"
+            android:text="Speed Meter"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <TextView
+
+            android:id="@+id/WeatherText"
+            android:layout_width="88dp"
+            android:layout_height="39dp"
+            android:layout_column="0"
+
+            android:layout_marginLeft="10dp"
+            android:layout_row="3"
+            android:text="Bus/Train Info"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <ImageButton
+            android:id="@+id/EmergencyBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginLeft="10dp"
+            android:layout_row="4"
+            android:onClick="OpenEmergencyNow"
+            app:srcCompat="@drawable/emergency" />
+
+        <ImageButton
+            android:id="@+id/TourCalculator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="2"
+            android:onClick="OpenCalculatorNow"
+            app:srcCompat="@drawable/calculator" />
+
+        <ImageButton
+            android:id="@+id/SpeedMeterBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="0"
+            android:onClick="OpenSpeedMeterNow"
+            app:srcCompat="@drawable/races" />
+
+        <ImageButton
+            android:id="@+id/WeatherBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_row="2"
+            android:onClick="OpenTruthandDare"
+            app:srcCompat="@drawable/bus" />
+
+    </GridLayout>
+</RelativeLayout>

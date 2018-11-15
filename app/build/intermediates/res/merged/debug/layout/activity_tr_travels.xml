@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.debuggers.anew.toura.TrTravels">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="
+TR Travels has the following regular routes from Dhaka: (Both AC and Non-AC are available)\n
+*Bogra\n
+*Naogaon\n
+*Rangpur\n
+*Chittagong\n
+*Cox’s Bazar\n
+*Moulovibazar\n\n
+TR Travels Counters in Dhaka:\n\n
+Kollyanpur AC\n
+01191-494865\n
+02-8031189\n
+Kollyanpur\n
+01191-494864\n
+Gabtoli\n
+01191-494863\n
+01195-137455\n
+Mohakhali\n
+01191-494866\n
+Fokirapool\n
+01190-760003\n
+Saydabad\n
+01190-760004\n
+Uttara\n
+01190-760570\n
+01913-377459\n
+Abdullahpur\n
+01190-913298\n
+Kolabagan\n
+01191-863674\n
+Malibag\n
+01191-863675\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

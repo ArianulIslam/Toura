@@ -1,7 +1,7 @@
-#Fri Mar 17 16:58:53 BDT 2017
-base.0=/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fb2a47f47ee2a7a8532bc2bd0325430865a538ff
+#Wed Apr 26 02:29:20 BDT 2017
+base.0=/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_913bedf96da220b485d98f91f7248dd07e50be85
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_13d7f061732205986b366c7c791429e9a2580647/classes.dex
-base.1=/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_13d7f061732205986b366c7c791429e9a2580647
-file.0=/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fb2a47f47ee2a7a8532bc2bd0325430865a538ff/classes.dex
+file.1=/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e95330f4ca524dc32ae411741d0ecf5a0aba21f/classes.dex
+base.1=/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e95330f4ca524dc32ae411741d0ecf5a0aba21f
+file.0=/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_913bedf96da220b485d98f91f7248dd07e50be85/classes.dex

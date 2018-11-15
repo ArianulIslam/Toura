@@ -9,7 +9,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="0dp"
-    tools:context="com.example.anew.toura.org.example.anew.toura.ShopNowActivity">
+    tools:context="org.debuggers.anew.toura.ShopNowActivity">
 
     <WebView
         android:layout_width="match_parent"

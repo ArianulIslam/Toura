@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.GreenLineBus">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:text="Green Line has the following regular routes from Dhaka:\n
+*Rangpur\n
+*Bogra\n
+*Rajshahi\n
+*Sylhet\n
+*Chittagong\n
+*Cox’s Bazar\n
+*Khulna\n
+*Benapol\n
+*Kolkata
+\n\n
+Main Counter Contact:\n
+Rajarbag Branch\n
+9/2, Outer Circular Road (Mobinbag),\n
+Rajarbag, Dhaka-1217.\n
+Website: www.greenlineparibahan.com\n
+\n\n
+
+Other Counters in Dhaka:\n
+Counter Address : \n
+
+Arambag Branch\n
+167/7, Circular Road, Arambag, Dhaka.\n
+Tel: 02-7192300.\n\n
+Fokirapool Branch\n
+2, Inner Circular Road, Fakirapool, Dhaka.\n
+Tel: 02-7191900.\n\n
+Kolabagan Branch\n
+64/8, Lake Circus Kolabagan, Dhaka.\n
+Tel: 02-912287.\n\n
+Kallyanpur Branch\n
+3/2, South Kollyanpur, Dhaka.\n
+Mob: 01730-060080.\n\n
+"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView10"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:padding="10dp" />
+    </ScrollView>
+    </android.support.v7.widget.CardView>
+
+
+
+</RelativeLayout>

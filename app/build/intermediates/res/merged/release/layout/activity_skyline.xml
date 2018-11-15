@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.Skyline">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Sky Line Express has the following regular routes from Dhaka: (Only Non-AC normal and chair coach bus services are available)\n
+*Kushtia
+Head Office of Sky Line Express:\n
+Mojompur (In front of Zila School), Kushtia-7000.\n
+Mobile: 01737-595463, 01190-300010, 01746-379215.\n\n
+Sky Line Express Counters in Dhaka:\n
+
+Address and Contact:\n
+Kollyanpur\n
+Kollyanpur BRTC bus stand, Mirpur, Dhaka.\n
+Tel: 02-9008034.\n
+Mob: 01746-379216, 01190-300020.\n
+Gabtoli\n
+Gabtoli bus terminal, Mirpur, Dhaka.\n
+Mob: 01190-300019\n
+Baipail\n
+Mob: 01718-827719\n
+Chondra\n
+Mob: 01816-081004\n
+
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

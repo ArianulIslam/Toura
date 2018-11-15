@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.HanifEnterPrise">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="
+The mission of Hanif Enterprise is to provide the smoothest journey possible with the maximum level of luxury and comfort. Bus model of Hanif Enterprise is Volvo 9400 6X2 B9R Multi-axle Coach.\n\n
+Description:\n\n
+DHAKA OFFICES\n
+PANTHOPATH: 0173-402670\n
+ARAMBAGH: 01713-402671\n
+SAYADABAD: 01713-402673\n\n
+CHITTAGONG OFFICES\n
+DAMPARA: 01713-402663, 01713402664\n
+AK KHAN: 031-2773181, 01713-402665/67\n\n
+COX BAZAR OFFICES\n
+JAWTALA: 01713-402668\n
+KALATOLI: 01713-402669\n\n
+VITAL ROUTES:\n
+DHAKA-CHITTAGONG-COX BAZAR\n
+DHAKA-RAJSHAHI\n
+DHAKA-NATORE\n
+DHAKA-RANGPUR\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

@@ -1,538 +1,534 @@
 [
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/167f636fee2d68f1e968f3166eb016f59bd2ee9f/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_rewind30.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_play.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_pause_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/route.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/route.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/maplocation.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/maplocation.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/rentcar.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/rentcar.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_audiotrack_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_close_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_play_large.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/threecars.jpg",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/threecars.jpg"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_small_icon.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_play_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_pause.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_media_route_mono_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_stop.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_rewind10.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_forward30.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_media_route_mono_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/emergency.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/emergency.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mail.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/mail.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_forward30.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/ic_collapse.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_pause_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_media_route_on_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_play.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_play.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_media_route_connecting_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/b89e939e13e48561956bb6cd5d1ef12b3a207c65/output/res/drawable/cast_ic_notification_connecting.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_close_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_vector_test.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/geolocalization.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/geolocalization.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_forward.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_play_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_skip_next.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_skip_prev.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/firstaidkit.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/firstaidkit.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/musicplayer.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/musicplayer.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/races.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/races.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_mute.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/ic_expand.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/drawable/design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_forward10.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_stop.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/compassmain.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/compassmain.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_disconnect.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/calculator.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/calculator.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_mini_controller_progress_drawable.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/siren.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/siren.png"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/drawable/navigation_empty_icon.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_media_route_connecting_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_mini_controller_gradient_light.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_mute.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_media_route_on_dark.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/489b7342a0f9a50b42d4e0eb245938ebc5ea72af/output/res/drawable/design_password_eye.xml"
-    },
-    {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
         "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_skip_ad_label_border.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_cast_dark.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/167f636fee2d68f1e968f3166eb016f59bd2ee9f/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
         "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/c612a8ddce2e35e56ea4b4afed8093e192977dca/output/res/drawable/mr_ic_cast_light.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/backgraound.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/backgraound.png"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_forward30.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_skip_ad_label_border.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/callbuttun.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/callbuttun.png"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/musicplayer.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/musicplayer.png"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_mute.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/compass.png",
-        "source": "/Users/ib-internetbasic/Downloads/Toura/app/src/main/res/drawable/compass.png"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/ic_collapse.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/geolocalization.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/geolocalization.png"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
         "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/firstaidkit.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/firstaidkit.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_close_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b89e939e13e48561956bb6cd5d1ef12b3a207c65/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/threecars.jpg",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/threecars.jpg"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mail.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/mail.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/trainsinfo.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/trainsinfo.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/calculator.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/calculator.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/emergency.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/emergency.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/route.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/route.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/maplocation.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/maplocation.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/compass.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/compass.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/167f636fee2d68f1e968f3166eb016f59bd2ee9f/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
         "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
-        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/compassmain.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/compassmain.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/2b85ed6116b7bcbb5b981a2d94b702e09ca4b1dc/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/167f636fee2d68f1e968f3166eb016f59bd2ee9f/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/rentcar.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/rentcar.png"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/167f636fee2d68f1e968f3166eb016f59bd2ee9f/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/68d11ccec6d737259e52116b89dce2d349181153/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
+        "source": "/Users/ib-internetbasic/.android/build-cache/b851f2d39fb49d898bb0452793ceb00d260f9586/output/res/drawable/mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/res/merged/debug/drawable/siren.png",
+        "source": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/src/main/res/drawable/siren.png"
     }
 ]

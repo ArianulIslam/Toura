@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.debuggers.anew.toura"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionCode="5"
+    android:versionName="5" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="15"
         android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -30,6 +30,7 @@
         android:required="true" />
 
     <application
+        android:name="android.support.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -350,8 +351,157 @@
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:theme="@android:style/Theme.Translucent" />
         <activity
-            android:name="org.debuggers.anew.toura.MapsActivity"
-            android:label="@string/title_activity_maps" />
+            android:name="org.debuggers.anew.toura.BusInfoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.GreenLineBus"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.SAlamService"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.ShamoliService"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.HanifEnterPrise"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.shohagParibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.SoudiaParibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.EagleParibhan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.TrTravels"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.SpGoldentpariBhahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.UltraModernParibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.ModernEnterPrise"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.ShaAliFatehAliParibhan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.Nabilparibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.almuburakparibhan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.unitedParibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.SakuraParibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.parjatakParibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.EnaPariable"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.AkTravels"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.KuwakatExpress"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.keyaParibon"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.DreamLine"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.Skyline"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.NislamAcitvity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.MamunEnterPrise"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.SungondaParibahan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.DeshTravels"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.GrameenPharibahn"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.AsiaExpress"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.Dhaka"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.AkotaExpress"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.KharnupholiPharabon"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.ShebaPari"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.SAPAribaihan"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.MoinotGhat"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.TrainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="org.debuggers.anew.toura.AllTransport"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
         <activity
             android:name="com.google.android.gms.appinvite.PreviewActivity"
             android:exported="true"
@@ -472,9 +622,10 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
-        <service
-            android:name="com.android.tools.fd.runtime.InstantRunService"
-            android:exported="true" />
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="org.debuggers.anew.toura.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

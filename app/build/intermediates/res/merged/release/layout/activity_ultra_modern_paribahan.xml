@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.UltraModernParibahan">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Ultra Modern Paribahan has the following regular routes from Dhaka: (Only Non-AC chair coach bus service is available)\n\n
+*Rajshahi\n
+*Chapainawabganj\n\n
+Main Counter of Ultra Modern Paribahan:\n
+Saydabad Counter, Dhaka\n
+01714-989161\n\n
+Other Counters of Ultra Modern Paribahan:\n
+
+Saydabad Counter\n
+01714-989161\n
+Sonargaon Counter\n
+01730-005370\n
+Chapainawabganj Counter\n
+01730-005364,\n
+01712-247540\n
+Rohonpur, Banpara Counter\n
+01730-005362\n
+Veramara Counter\n
+01730-005366\n
+Narayanganj Counter\n
+01191-793349\n
+Kansat Counter\n
+01730-005369\n
+Nachol Counter\n
+01730-005360\n
+Boraigram Counter\n
+01716-555634\n
+Uttara, Dhaka Counter\n
+01730-005371,\n
+01921-048122\n
+Chashara (Narayanganj) Counter\n
+01675-724416\n
+Shibganj Counter\n
+01730-005370\n
+Rajshahi Counter\n
+01730-005357,\n
+01730-005358\n
+Pragpur Counter\n
+01718-860303\n
+Nordda Counter\n
+01717-075845\n
+Kachpur Counter\n
+01730-005375\n
+Amnura Counter\n
+01730-005373\n
+Natore Counter\n
+01717-079904\n
+
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

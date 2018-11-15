@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.SoudiaParibahan">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Soudia Paribahan has the following regular routes from Dhaka: (Both AC and Non-AC are available)\n
+1. Calcutta\n
+2. Chittagong\n
+3. Cox’s Bazar\n
+4. Sylhet\n
+5. Barisal\n
+6. Khagrachori\n
+7. Fotikchori\n
+8. Teknaf\n
+9. Borguna\n
+10. Khepupara\n
+11. Vandaria\n
+12. Pirojpur\n
+13. Satkhira\n
+14. Khulna\n
+15. Mongla\n
+16. Jessore\n
+17. Benapole\n
+18. Mymensingh\n
+19. Jamalpur\n
+20. Sherpur\n\n
+Soudia Paribahan’s Head Office:\n
+Soudia Paribaha\n
+167, Eden Building, Motijheel, Dhaka-1000.\n
+Mobile: 01919-654935\n
+E-mail: info@soudiaonline.com\n\n
+Other Counters in Dhaka:\n
+Non-AC Service Counters:\n
+Counter Contact Number\n\n
+
+Saydabad-1\n
+01919-654856\n
+Saydabad-2\n
+01919-654857\n
+Saydabad-3\n
+01919-654752\n
+Fakirapool\n
+01919-654858\n
+Kolabagan\n
+01919-654861\n
+Gabtoli-1\n
+01919-654863\n
+Gabtoli-2\n
+01919-654753\n
+Komlapur\n
+01919-654859\n
+Abdullahpur\n
+01919-654754\n\n
+AC Service Counters:\n
+Counter Contact Number\n
+
+Panthapath\n
+01919-654926 / 27\n
+Kollyanpur\n
+01919-654928\n
+Saydabad\n
+01919-654929
+Rajarbagh\n
+01919-654930 / 31\n
+Arambagh\n
+01919-654932 / 33\n
+Eden\n
+01919-654935\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

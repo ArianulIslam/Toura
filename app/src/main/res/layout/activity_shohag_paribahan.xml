@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.shohagParibahan">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Shohagh Paribahan’s regular AC routes are as below: (AC Volvo)\n
+Dhaka- Chittagong- Dhaka\n
+Dhaka- Cox's Bazar- Dhaka\n
+Dhaka- Sylhet- Dhaka\n
+Dhaka-Jessore-Khulna- Dhaka\n
+Dhaka- Jessore- Benapole- Kolkata\n\n
+Shohagh Paribahan’s regular Non-AC routes are as below:\n
+Dhaka- Jessore- Khulna- Dhaka\n
+Dhaka- Khulna- Bagerhat- Dhaka\n
+Dhaka- Jessore- Benapole- Dhaka\n
+Dhaka- Jessore- Shatkhira- Dhaka\n\n
+Counters in Dhaka:\n
+
+Malibagh\n
+Address:114 Malibagh DIT Road\n
+Phone: 02-9344477, 01711-612433\n\n
+Jhonson Road\n
+Address: 53/10 Jhonson Road\n
+Phone: 02-7166643\n\n
+Panthapath\n
+Address: 63/C Panthapath\n
+Phone: 02-9132360\n\n
+Kallyanpur\n
+Address: Kallyanpur Bus Stand\n
+Phone: 02-8055902\n\n
+Kalabagan\n
+Address: 64/3 Lake Circus, Mirpur Road\n
+Phone: 8126293\n\n
+Middle Badda\n
+Address: 190/A Middle Badda.\n
+Phone: 02-9882576\n\n
+Fakirapool\n
+Address: 2 Inner Circuler Road, Fakirapool.\n
+Phone: 02-9331600\n\n
+Kamlapur\n
+Address: 64/1 A Hotel Al-Faruk.\n
+Phone: 02-9132360\n\n
+Arambagh\n
+Address: 167/3 Eden Complex, Arambagh\n
+Phone: 02-7100422\n\n
+Abdullahpur (Uttara)\n
+Address: Abdullahpur, Uttara\n
+Phone: 02-8956345, 01711-624390\n
+Mohakhali\n
+Address: H 1/6 Mohakhali Rail Gate.\n
+Phone: 02-9884344\n\n
+Narayngonj\n
+Address: 111 Bangabandhu Road, N.Gonj\n
+Phone: 02-7634708\n\n
+Gulshan\n
+Address: House-5, Road-3, Gulshan-1\n
+Phone: 02-8857932\n
+Savar\n
+Address: Savar Bus Stand\n
+Phone: 01711-818874\n\n
+Gulistan\n
+Address: 14/1 North South Road, Fulbaria\n
+Phone: 02-7171078\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

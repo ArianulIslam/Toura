@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_panite_dube_gele"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.PaniteDubeGele">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text= "পানিতে ডুবলে রোগীকে করনীয় \n\n•যদি কেউ পানিতে ডুবে যায় তবে যত তাড়াতাড়ি সম্ভব ডুবন্ত ব্যক্তিকে উদ্ধার করতে হবে৷ তবে পানিতে ডোবা রোগীকে উদ্ধারের জন্য পারদর্শী লোকের প্রয়োজন৷ নতুবা উদ্ধারকারীর জীবন বিপন্ন হতে পারে\n
+• যার শ্বাস বন্ধ হয়ে গেছে তাকে পানি থেকে তোলার আগেই (যদি সম্ভব হয়) নাক ও মুখে কিছু থাকলে তা দ্রুত আঙুল দিয়ে পরিষ্কার করে মুখে মুখ রেখে শ্বাস দিতে হবে\n
+• যদি মুখে মুখে শ্বাসক্রিয়া চালু না করা যায় অর্থাত্ বাতাস যদি ফুসফুসে প্রবেশ না করে তবে বুঝতে হবে শ্বাসনালী ও ফুসফুস সম্পূর্ণ পানিতে ভর্তি৷ সে অবস্থায় রোগীকে ডাঙ্গায় তুলে এনে ফুসফুস থেকে পানি বের করতে হবে৷ প্রথমে রোগীকে উপুড় করে শুইয়ে দিতে হবে৷ তারপর পেট ধরে উচু করতে হবে যাতে মাথা, বুক নিচের দিকে থাকে৷ পিঠে আস্তে আস্তে চাপড় দিতে হবে৷ এতে পাকস্থলী, শ্বাসনালী ও ফুসফুসের পানি বের হয়ে আসবে৷ পানি বের করার জন্য বেশি সময় নেয়া যাবে না৷ তারপর কৃত্রিম পদ্ধতিতে শ্বাস-প্রশ্বাস চালিয়ে যেতে হবে যতক্ষণ পর্যন্ত না স্বাভাবিক শ্বাস-প্রশ্বাস আরম্ভ হয়\n
+• সম্ভব হলে ভেজা কাপড় খুলে দিতে হবে৷ হাত-পা ঠাণ্ডা হলে ম্যাসেজ বা গরম সেঁক দিতে হবে\n
+• রোগীকে আরামে শুইয়ে রাখতে হবে, পায়ের দিক কিছু ওপরে ও মাথা কিছু নিচের দিকে রাখলে ভালো হয়\n
+• অবস্থা ভালো থাকলে কুসুম গরম দুধ, চা ইত্যাদি খেতে দেয়া যায়\n
+• অবস্থা ভালো না হলে নিকটস্থ হাসপাতালে দ্রুত নিয়ে যেতে হবে৷ প্রয়োজনে অক্সিজেন দিতে হবে\n
+• ঔষুধ সেবন ও ব্যবহারের ক্ষেত্রে রেজিষ্টার চিকিত্সকের পরামর্শ নিন\n\n"
+
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

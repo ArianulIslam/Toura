@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.ShebaPari">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Seba Chair Coach has the following regular routes from Dhaka: (Only Non-AC chair coach bus service is available)\n
+*Feni\n
+*Basurhat\n
+*Dagonbhuiyan\n
+*Chauddagram\n
+*Kankirhat\n
+*Sonagaji\n\n
+Main Counter of Seba Chair Coach:\n
+Saydabad Highway, Bus Terminal, Dhaka.\n
+Mobile: 01916-977108, 01199-489152.\n\n
+Other Counters in Dhaka:\n
+
+Saydabad-1\n
+01916-977108\n
+Saydabad-2\n
+01199-489152\n
+Chittagong Road\n
+01672-948489\n
+Kachpur\n
+01680-401719\n
+
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

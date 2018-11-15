@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/ib-internetbasic/Downloads/Toura/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+        "outputFile": "/Users/ib-internetbasic/Desktop/Debuggers Studio/Project Toura/Toura/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 121
                 },
                 "from": {
-                    "file": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 303
                 },
                 "from": {
-                    "file": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 414
                 },
                 "from": {
-                    "file": "/Users/ib-internetbasic/.android/build-cache/eaede4c3a9efe0ef79f1ed572c73f650a33193ca/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/ib-internetbasic/.android/build-cache/a95d5a0c7fad093919c02b6c957e92c26254d194/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

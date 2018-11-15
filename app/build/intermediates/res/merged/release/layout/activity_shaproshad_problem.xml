@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_shaproshad_problem"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.debuggers.anew.toura.ShaproshadProblem">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="শ্বাস — প্রশ্বাসে সমস্যা হলে করনীয়\n\n
+যারা হঠাৎ বা নতুন করে এ রোগে আক্রান্ত হয়েছেন তাদের ক্ষেত্রে চিকিৎসা ব্যবস্থা আলাদা, তবে নতুন এবং পুরাতন রোগীদের ক্ষেত্রে ইনহেলারের ব্যবহার বৃদ্ধি পাচ্ছে।\n
+ইনহেলার অ্যাজমা বা হাঁপানি রোগীদের জন্য একটি কার্যকর চিকিৎসা ব্যবস্থা। এ যন্ত্রের সাহায্যে খুব সহজেই শ্বাসের সঙ্গে ওষুধ টেনে নেওয়া যায়।\n
+ইনহেলার ছাড়া এ সব রোগীর মুখে সেবনের যে ধরনের ওষুধ রয়েছে সেগুলো সেবন করলে রোগীদের ঘুমের পরিমাণ কমে যায়। হাত-পা কাঁপে, বুক ধড়ফড় করে।\n
+এদিক দিয়ে প্রাথমিক পর্যায়ে ইনহেলার ব্যবহার করাই শ্রেয়। কারণ ইনহেলার যন্ত্রের মাধ্যমে শ্বাসনালিতে যে ওষুধ প্রেরণ করা হয়, তা কাজ করে খুব দ্রুত।
+এ যন্ত্রটি ব্যবহারের ক্ষেত্রে লক্ষ্য রাখতে হবে যেন ওষুধ শ্বাসনালিতে ঠিকমতো পেঁৗছায়। নতুবা এটা ব্যবহার করলে রোগীর কোনো উপকার হবে না। হাঁপানি রোগের প্রথম পর্যায়ের চিকিৎসা হচ্ছে ইনহেলার। কোনো শ্বাসকষ্টের রোগীর যদি ইনহেলার ব্যবহার করেও শ্বাসকষ্টের পরিমাণ বেড়ে যায়, তবে তাকে মুখে সেবনের ট্যাবলেট বা ক্ষেত্র বিশেষে ইনজেকশন দেওয়া হয়। \n
+ইনহেলার ব্যবহারের পর অন্য ওষুধ রোগীর শরীরে কাজে লাগে। এর কোনো পাশর্্বপ্রতিক্রিয়া নেই। এটি ব্যবহার করলে ওষুধ লাগে কম এবং এর ফল পাওয়া যায় খুব তাড়াতাড়ি। বিশেষজ্ঞ চিকিৎসকের পরামর্শ অনুযায়ী সঠিকভাবে ইনহেলার ব্যবহার করতে হবে। তবে অ্যাজমা রোগীর শ্বাসকষ্টের পরিমাণ যদি একেবারে নিয়ন্ত্রণের বাইরে চলে যায় সে ক্ষেত্রে রোগীকে হাসপাতালে নিয়ে যেতে হবে।\n
+শিশুদের ক্ষেত্রে : শিশুদের জন্য এটি অসহ্য যন্ত্রণাদায়ক ব্যাপার। তাই শিশুদের হঠাৎ হাঁপানির সৃষ্টি হলে তা খুব দ্রুত নিয়ন্ত্রণের ব্যবস্থা নিতে হবে। বেশিরভাগ সময় এসব ক্ষেত্রে শিশুদের সালবুটামল জাতীয় ইনহেলার দেওয়া হয় স্পেসারের সাহায্যে। শ্বাসের উন্নতি না হওয়া পর্যন্ত এর সাহায্যে পাফ দেওয়া হয় কয়েক সেকেন্ড পরপর। তবে সর্বোচ্চ ২০ পাফ পর্যন্ত নেওয়া যায়। একেবারে ছোট বাচ্চাদের জন্য নেবুলাইজার ব্যবহার করা হয়।\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

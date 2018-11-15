@@ -27,7 +27,7 @@ public class NeedCarActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 callIntent = new Intent(Intent.ACTION_CALL);
-                callIntent.setData(Uri.parse("tel:+8801710838622"));
+                callIntent.setData(Uri.parse("tel:+8801872604442"));
                 if(ContextCompat.checkSelfPermission(NeedCarActivity.this, Manifest.permission.CALL_PHONE)!= PackageManager.PERMISSION_GRANTED){
 
 
@@ -50,7 +50,7 @@ public class NeedCarActivity extends AppCompatActivity {
         SMSbuttn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent Smsintent = new Intent(Intent.ACTION_VIEW,Uri.fromParts("sms","+8801710838622",null));
+                Intent Smsintent = new Intent(Intent.ACTION_VIEW,Uri.fromParts("sms","+8801872604442",null));
                 Smsintent.putExtra("Sms_body","I need car ");
                 startActivity(Smsintent);
             }

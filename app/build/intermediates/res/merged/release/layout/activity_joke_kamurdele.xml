@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_joke_kamurdele"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    tools:context="org.debuggers.anew.toura.JokeKamurdele">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="জোঁক, পিঁপড়া, বিচ্ছা ও পোকার কামড় দিলে করনীয়\n\n
+
+জোঁক কামড়ালে :\n১. জোঁকযেখানেই কামড়াক না কেন কখনোই তা টেনে ছাড়ানোর চেষ্টা করবেন না। কারণ মুখের অংশ ছিঁড়ে শরীরে লেগে থাকলে সেখানে ক্ষত হয়ে যাবে, যা সারতে বহুদিন সময় লাগে। \n
+২. জোঁক সরাতে জোঁকের মুখের দিকে লবণ দিন। সাথে লবণ না থাকলে তামাকপাতার গুঁড়া (এমনকি সিগারেটের তামাকও) একই কাজ দেবে। \n
+৩.লবানাক্ত পানি ও বালু দিয়ে জোঁক ছাড়ানো যায় \n\nমৌমাছি কামড়ালে: \n১.মৌমাছি কামড়ালে সাথে সাথে সেই জায়গায় পেঁয়াজের রস ঘষে দিন। \n
+২.চিমটাজাতীয় জিনিস দিয়ে মৌমাছির হুলটা তুলে ফেলে দিন এবং সার্জিকাল স্পিরিট লাগিয়ে নিন। \n
+৩.বোলতা কামড় দেয়ার সঙ্গে সঙ্গে জায়গাটা বেশ জ্বালা করে এবং ফুলে যায়। \n
+৪.প্রচুর পরিমাণে পানি দিয়ে আক্রান্ত জায়গা ধুয়ে ফেলতে হবে। বরফ ঘষে দিন।\n
+ এরপর ক্যালামাইন লোশন লাগান। বেকিং পাউডার পানি দিয়ে পেস্ট করে লাগালেও আরাম পাবেন।\n\n
+ পিঁপড়াও বিচ্ছা কামড়ালে : \n১.পিঁপড়া কামড়ালে গরম পানিতে লবণ মিশিয়ে আক্রান্ত স্থানে লাগান।\n
+ ১.বিচ্ছু বা বিছার কামড় অত্যন্ত যন্ত্রণাদায়ক। কখনো কখনো মানুষ মারাও যেতে পারে! বিচ্ছু কামড়ালে যে জায়গায় কামড়েছে সেখানে সামান্য চিরে পানিতে সামান্য পটাশিয়াম পারম্যাঙ্গানেট মিশিয়ে ধুয়ে ফেলুন।\n
+ ২.কোনো অ্যান্টিসেপ্টিক তুলা দিয়ে আক্রান্ত স্থানে লাগান। লবণ\n
+ ৩. লেবুর রস একসঙ্গে মিশিয়ে লাগালেও উপকার পাবেন। \n\n
+মনের অজান্তে পোকার কামড় দিলে করনীয়: \n
+১. কিছু কামড় দিয়েছে। কিন্তু কী কামড় দিয়েছে তা বোঝা যায় না। সেক্ষেত্রে জায়গাটা সাবান দিয়ে ভালো করে ধুয়ে ক্যালামাইন লোশন লাগিয়ে দিন। অলিভ অয়েলের সাথে ডিমের সাদা অংশ মিশিয়ে লাগালেও কাজ দেবে।\n\n
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:padding="10dp" />
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
